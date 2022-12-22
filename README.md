@@ -27,7 +27,7 @@ Complete install Guide : https://grapheneos.org/install/
 >   - reading user reviews & privacy guides.
 > - Not using apps or services from 🇨🇳, 🇷🇺, 🇮🇳 and others famous who don't respect people's privacy.
 > - Trying to replace popular apps and services with open-source and/or offline alternatives (for things like notes, document scanning, tasks, workout tracking, maps, code etc...).
-> - Remove any apps I do not use anymore.
+> - Reduce the number of apps .
 
 ### 👥 Profiles
 
