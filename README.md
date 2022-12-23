@@ -221,6 +221,7 @@ https://archive.newpipe.net/fdroid/repo/?fingerprint=E2402C78F9B97C6C89E97DB914A
 
 ## The GrapheneOS home screen after setup
 
+<img src="https://raw.githubusercontent.com/ivoarch/GrapheneOS-Setup/844769a9a84724905fa4d1c524c88ef334e13783/Screenshot_20221222-184657.png" width="250" height="500" />
 
 > Screenshot of my phone as of 18-12-2022
 
