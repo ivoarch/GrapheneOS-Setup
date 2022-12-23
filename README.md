@@ -1,4 +1,4 @@
-# GrapheneOS-Setup
+# GrapheneOS-Setup Tutorial
 
 Official Web - https://grapheneos.org
 
