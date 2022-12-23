@@ -18,7 +18,7 @@ Complete install Guide : https://grapheneos.org/install/
 > - Secure device with strong password.
 > - Use separate profiles for apps requiring Google Services.
 > - Keep devices up to date to ensure I recieve the latest security patches.
-> - Use encryption where is posible.
+> - Encrypt sensitive data.
 > - Do not plug my device into unknown ports.
 > - Never leave my device unattended.
 > - Check the legitimacy of the application before installation.
