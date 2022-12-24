@@ -25,7 +25,7 @@ Complete install Guide : https://grapheneos.org/install/
 >   - verify the name of developers and their actual existence .
 >   - reading the description of the application and its permissions.
 >   - reading user reviews & privacy guides.
-> - Not using apps or services from 🇨🇳, 🇷🇺, 🇮🇳 and others famous who don't respect people's privacy.
+> - Not using apps or services from 🇨🇳, 🇷🇺, 🇮🇳 and others famous who don't respect people's privacy (**nothing personal against the people of these countries, my respect for them**).
 > - Trying to replace popular apps and services with open-source and/or offline alternatives (for things like notes, document scanning, tasks, workout tracking, maps, code etc...).
 > - Reduce the number of apps .
 
@@ -184,7 +184,7 @@ https://archive.newpipe.net/fdroid/repo/?fingerprint=E2402C78F9B97C6C89E97DB914A
 
 **To Be Continued...**
 
-## ⚙️ App Preferences
+### ⚙️ App Preferences
 
 **Vanadium**
 
@@ -219,7 +219,7 @@ https://archive.newpipe.net/fdroid/repo/?fingerprint=E2402C78F9B97C6C89E97DB914A
 
 **To Be Continued...**
 
-## The GrapheneOS home screen after setup
+### The GrapheneOS home screen after setup
 
 <img src="https://raw.githubusercontent.com/ivoarch/GrapheneOS-Setup/844769a9a84724905fa4d1c524c88ef334e13783/Screenshot_20221222-184657.png" width="250" height="550" />
 
