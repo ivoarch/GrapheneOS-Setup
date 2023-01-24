@@ -142,12 +142,12 @@ https://archive.newpipe.net/fdroid/repo/?fingerprint=E2402C78F9B97C6C89E97DB914A
 - **Password Manager & 2FA**
   - [Bitwarden](https://bitwarden.com/) 🇺🇸 `US`
 - **Email Service/Client/Contacts/Calendar**
-  - [Tutanota](https://tutanota.com/) 🇩🇪 `EU` 🌱
+  - [Proton](https://proton.me) 🇨🇭 `EU` 🌱
   - [K-Mail](https://k9mail.app) 🇺🇸 `US`
 - **Anti-spam email protection**
-  - [AnonAddy](https://anonaddy.com) 🇬🇧 `UK` 🌱 / android app 🇳🇱
+  - [Simple Login](https://simplelogin.io/) 🇫🇷 🇨🇭 `EU`
 - **Encrypted E2EE cloud storage**
-  - [Filen](https://filen.io/) 🇩🇪 `EU` 
+  - [Proton Drive](https://proton.me/drive) 🇨🇭 `EU` 
 - **Notes**
   - [Quillpad](https://github.com/quillpad/quillpad)
 - **YouTube frontend**
@@ -159,7 +159,7 @@ https://archive.newpipe.net/fdroid/repo/?fingerprint=E2402C78F9B97C6C89E97DB914A
 - **Secure Messaging**
   - [Threema](https://threema.ch/en) 🇨🇭 `EU`
 - **VPN**
-  - [Mullvad VPN](https://f-droid.org/en/packages/net.mullvad.mullvadvpn/) 🇸🇪 `EU`
+  - [Proton VPN](https://protonvpn.com/) 🇨🇭 `EU`
 - **Private Browsing**
   - [Tor browser](https://www.torproject.org/download/#android) 🇺🇸 `US`
 - **File Encryption**
@@ -189,7 +189,8 @@ https://archive.newpipe.net/fdroid/repo/?fingerprint=E2402C78F9B97C6C89E97DB914A
 **Vanadium**
 
 - Settings
-  - Search engine - Add [Mojeek](https://www.mojeek.com) 🇬🇧 🌱 as a search engine in Vanadium .
+  - Search engine - Add [StartPage](https://support.startpage.com/hc/en-us/articles/8623502498964-Make-Startpage-the-default-search-engine-in-Chrome-Android-) 🇳🇱
+as a default search engine in Vanadium .
 - Passwords
   - Save Passwords ❌
   - Auto Sign-in ❌
@@ -205,17 +206,10 @@ https://archive.newpipe.net/fdroid/repo/?fingerprint=E2402C78F9B97C6C89E97DB914A
 - Notifications
   - All Vanadium notifications ❌
 - Homepage
-  - On ✅ (https://www.mojeek.com/?theme=dark&autocomp=0&hp=minimal)
+  - ❌
 - Downloads
   - Ask where to save files ✅
 
-**Mullvad**
-
-- Preferences
-  - Auto-connect ✅
-  - Local Network sharing ✅
-- Adenced
-  - Custom DNS ✅ "Set to block everything 100.64.0.31 (ad trackers, malware, adult content, gambling websites ) more - information here - https://github.com/mullvad/dns-blocklists .
 
 **To Be Continued...**
 
