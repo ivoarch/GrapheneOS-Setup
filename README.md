@@ -129,6 +129,12 @@ NewPipe Upstream
 https://archive.newpipe.net/fdroid/repo/?fingerprint=E2402C78F9B97C6C89E97DB914A2751FDA1D02FE2039CC0897A462BDB57E7501
 ```
 
+IzzyOnDroid
+
+```
+https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A
+```
+
 ### 📦 Apps
 
 - **Web Browser**
@@ -142,7 +148,7 @@ https://archive.newpipe.net/fdroid/repo/?fingerprint=E2402C78F9B97C6C89E97DB914A
 - **Password Manager & 2FA**
   - [Bitwarden](https://bitwarden.com/) 🇺🇸 `US`
 - **Email Service/Client/Contacts/Calendar**
-  - [Proton](https://proton.me) 🇨🇭 `EU` 🌱
+  - [Proton, Proton Mail, Proton Calendar](https://proton.me) 🇨🇭 `EU`
   - [K-Mail](https://k9mail.app) 🇺🇸 `US`
 - **Anti-spam email protection**
   - [Simple Login](https://simplelogin.io/) 🇫🇷 🇨🇭 `EU`
