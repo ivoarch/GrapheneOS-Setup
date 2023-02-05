@@ -158,14 +158,16 @@ https://archive.newpipe.net/fdroid/repo/?fingerprint=E2402C78F9B97C6C89E97DB914A
   - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) 🇫🇷 `EU`
 - **Secure Messaging**
   - [Threema](https://threema.ch/en) 🇨🇭 `EU`
+  - [Signal](https://signal.org/en/) 🇺🇸 `US`
 - **VPN**
   - [Proton VPN](https://protonvpn.com/) 🇨🇭 `EU`
 - **Private Browsing**
   - [Tor browser](https://www.torproject.org/download/#android) 🇺🇸 `US`
 - **File Encryption**
   - [Cryptomator](https://cryptomator.org/downloads/) 🇩🇪 `EU`
-  -  [Droid-Fs](https://forge.chapril.org/hardcoresushi/DroidFS) 🇫🇷 `EU` 
-  -  [OpenKeychain](https://www.openkeychain.org) 🇩🇪 `EU`
+  - [Droid-Fs](https://forge.chapril.org/hardcoresushi/DroidFS) 🇫🇷 `EU` 
+  - [OpenKeychain](https://www.openkeychain.org) 🇩🇪 `EU`
+  - [EDS Lite](https://sovworks.com/index.php)
 - **Rss/Feed reader**
   - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)
 - **Terminal emulator**
