@@ -194,6 +194,25 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 
 ### ⚙️ App Preferences
 
+**Bitwarden**
+
+- Settings
+  - Auto-fill
+    - Auto-fill services ✅
+  - Manage > Sync
+    - Allow Sync on refresh ✅
+  - Security
+    - Vault timeout set to 1 minute
+    - Unlock with biometrics ✅
+  - Tools
+    - Bitwarden web vault - go to web vault > security > key than increase KDF iterations to 600k .
+  - Other > Options
+    - Theme - Black
+    - Clear clipboard 1 minute
+  - Other - Auto-fill service
+    - Ask to add login ❌
+      
+
 **Vanadium**
 
 - Settings
