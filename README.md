@@ -217,9 +217,9 @@ as a default search engine in Vanadium .
 
 ### The GrapheneOS home screen after setup
 
-<img src="https://raw.githubusercontent.com/ivoarch/GrapheneOS-Setup/main/Screenshot_20230124-141136.png" width="250" height="550" />
+<img src="https://raw.githubusercontent.com/ivoarch/GrapheneOS-Setup/main/Screenshot_20230205-094747.png" width="250" height="550" />
 
-> Screenshot of my phone as of 24-01-2023
+> Screenshot of my phone as of 05-02-2023
 
 ### Accessories
 
