@@ -1,17 +1,13 @@
-# GrapheneOS-Setup Tutorial
+# GrapheneOS-Setup Tutorial Guide✍🏻
 
-Official Web - https://grapheneos.org
+### Recommendations
+ - Buy a Google Pixel with `cash` 💶 .
+ - Buy a prepaid SIM card without ID .
 
-### Web Install Guide
 
-- Buy a Google Pixel with `cash`
-- Turn on phone by holding down power + volume button.
-- Enable `OEM Unlocking`
-  - Settings > About phone > tap `Build number` 7 times (until you're developer)
-  - Settings > System > Developer options > `OEM unlocking` ✅
-  - Developer options > `USB debugging` ✅
+### 📝 Complete install Guide
 
-Complete install Guide : https://grapheneos.org/install/
+- https://grapheneos.org/install/
 
 ### 📝 Practices that I personally try to follow in my setup
 
@@ -25,14 +21,14 @@ Complete install Guide : https://grapheneos.org/install/
 >   - verify the name of developers and their actual existence .
 >   - reading the description of the application and its permissions.
 >   - reading user reviews & privacy guides.
-> - Not using apps or services from 🇨🇳, 🇷🇺, 🇮🇳 and others famous who don't respect people's privacy (**nothing personal against the people of these countries, my respect for them**).
+> - Do not use apps or services from 🇨🇳, 🇷🇺, 🇮🇳 and other countries with bad privacy laws .
 > - Trying to replace popular apps and services with open-source and/or offline alternatives (for things like notes, document scanning, tasks, workout tracking, maps, code etc...).
 > - Reduce the number of apps .
 
 ### 👥 Profiles
 
 On my personal GrapheneOS setup I have several user profiles .
-
+.
 Settings > System > Multiple users ✅ .
 
 - (**Owner** **#**) has nothing installed only Default apps - Password protected ✅
@@ -258,6 +254,7 @@ TODO
 
 GOS Official channel
 
+- https://grapheneos.org
 - https://grapheneos.org/articles
 - https://discuss.grapheneos.org
 
