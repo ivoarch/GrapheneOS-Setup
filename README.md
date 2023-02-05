@@ -45,8 +45,8 @@ Settings > System > Multiple users ✅ .
 - Settings > Network & internet > Internet > LTE connection from your carrier > ⚙️ Allow 2G ❌
 - Settings > Network & internet > Internet > Network preferences > Turn Off Wi-Fi automatically (15 seconds if no network connected)
 - Settings > Network & internet > Internet > Network preferences > Notify for public networks ❌
-- Settings > Network & internet > Internet > VPN > Mullvad VPN > ⚙️ Always-on VPN ✅
-- Settings > Network & internet > Internet > VPN > Mullvad VPN > ⚙️ Block connections without VPN ✅
+- Settings > Network & internet > Internet > VPN > Proton VPN > ⚙️ Always-on VPN ✅
+- Settings > Network & internet > Internet > VPN > Proton VPN > ⚙️ Block connections without VPN ✅
 - Settings > Connected devices > Bluetooth timeout ✅ (15 seconds if no devices connected)
 - Settings > Connected devices > Connection preferences > Printing ❌
 - Settings > Apps > SEE ALL `X` APPS > Customize everything! ✅
