@@ -32,7 +32,7 @@ On my personal GrapheneOS setup I have several user profiles .
 Settings > System > Multiple users ✅ .
 
 - (**Owner** **#**) has nothing installed only Default apps - Password protected ✅
-- (**Main** 👤) every day work profile only Privacy Android apps - Biometric (Fingerprint) protected ✅
+- (**Main** 👤) every day work profile only Privacy Android apps - Password protected ✅
 - (**Google** 🖕) apps requiring Google Services - Biometric (Fingerprint) protected ✅
 
 ### ⚙️ Settings
@@ -186,8 +186,6 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - https://digitalgoods.proxysto.re/ 🇩🇪 - ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)) - Buy coupons for privacy-friendly services with Monero or Bitcoin...
   - https://shop.proxysto.re/ 🇩🇪 - Get hardware, books, privacy gadgets and physical voucher cards for Mullvad VPN.
 
-**To Be Continued...**
-
 ### ⚙️ App Preferences
 
 **Bitwarden**
@@ -233,8 +231,6 @@ as a default search engine in Vanadium .
 - Downloads
   - Ask where to save files ✅
 
-
-**To Be Continued...**
 
 ### The GrapheneOS home screen after setup
 
