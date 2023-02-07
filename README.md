@@ -197,7 +197,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
     - Allow Sync on refresh ✅
   - Security
     - Vault timeout set to 1 minute
-    - Unlock with biometrics ✅
+    - Unlock with pin ✅
   - Tools
     - Bitwarden web vault - go to web vault > security > key than increase KDF iterations to 600k .
   - Other > Options
