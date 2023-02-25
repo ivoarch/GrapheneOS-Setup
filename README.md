@@ -51,6 +51,7 @@ Settings > System > Multiple users ✅ .
 - Settings > Sound & vibration > Do Not Disturb > Schedules > Sleeping ✅ use a specified custom time to time start 22:00 end 07:00
 - Settings > Sound & vibration > Dial pad tones ❌
 - Settings > Sound & vibration > Screen locking sound ❌
+- Settings > Sound & vibration > Charging sounds and vibration ❌
 - Settings > Sound & vibration > Touch sounds ❌
 - Settings > Sound & vibration > Always show icon when in vibration mode ✅
 - Settings > Display > Adaptive Brightness ✅
@@ -62,6 +63,9 @@ Settings > System > Multiple users ✅ .
 - Settings > Display > Night Light ✅
   - Don’t use sunset to sunrise (uses device location data) use a specified custom time to time start 22:00 end 07:00
 - Settings > Display > Screen saver ❌
+- Settings > Accessibility > Color and motion > Color correction > Use color correction ✅ select "Grayscale"
+- Settings > Accessibility > Color and motion > Color correction > Colour correction shortcut ✅
+- Settings > Accessibility > Accessibility shortcuts > Accessibility button > Location > Navigation bar ✅
 - Settings > Security > Fingerprint - Tap Fingerprint + PIN and follow the prompts
 - Settings > Security > Screen lock ⚙️ > Lock after screen timeout ✅ (5 seconds)
 - Settings > Security > Auto reboot > 24 Hours ✅
@@ -81,6 +85,11 @@ Settings > System > Multiple users ✅ .
 - Settings > System > Languages & input > On-screen keyboard > Text correction > Show correction sugguestions ❌
 - Settings > System > Languages & input > On-screen keyboard > Text correction > Next-word sugguestions ❌
 - Settings > System > Languages & input > Spell checker ❌
+- Settings > System > Gestures > Quickly open camera ❌
+- Settings > System > Gestures > System navigation > 3-button navigation ✅
+- Settings > System > Gestures > System navigation > 3-button navigation ⚙️ Hold home for Assistant ❌
+- Settings > System > Gestures > Tab to check phone ❌
+- Settings > System > Gestures > Lift to check phone ❌
 - Settings > System > Date & time - Toggle Use locale default ❌ (to allow the 24 hour time format to be used)
 - Settings > About Phone > Device Name > Set "generic name"
 
