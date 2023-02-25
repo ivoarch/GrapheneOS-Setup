@@ -168,7 +168,6 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Video Player/Music player**
   - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) 🇫🇷 `EU`
 - **Secure Messaging**
-  - [Threema](https://threema.ch/en) 🇨🇭 `EU`
   - [Signal](https://signal.org/en/) 🇺🇸 `US`
 - **VPN**
   - [Proton VPN](https://protonvpn.com/) 🇨🇭 `EU`
@@ -181,8 +180,12 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - [EDS Lite](https://sovworks.com/index.php)
 - **Rss/Feed reader**
   - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)
-- **Terminal emulator**
-  - text here
+- **Remove Metadata from pictures**
+  - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) 🇪🇸 `EU`
+- **Editor**
+  - [Editor](https://github.com/billthefarmer/editor)
+- **Barcode scanner**
+  - [Binary eye](https://github.com/markusfisch/BinaryEye)  🇩🇪 `EU`
 - **Office Suite**
   - [Collabora Office](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/) 🇬🇧 `UK`
 - **PDF Reader**
