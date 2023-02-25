@@ -207,6 +207,14 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
     - Ask to add login ❌
       
 
+**Camera**
+
+- Settings menu
+  - General
+  - Gyroscope suggestion ✅ 
+  - Camera sounds ❌
+
+
 **Vanadium**
 
 - Settings
