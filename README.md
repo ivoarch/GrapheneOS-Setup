@@ -1,8 +1,12 @@
-# GrapheneOS-Setup Tutorial Guide✍🏻
+# GrapheneOS-Setup Guide✍🏻
 
-### Recommendations
- - Buy a Google Pixel with `cash` 💶 .
- - Buy a prepaid SIM card without ID .
+### 📱Device selection
+
+- Buy **unlocked new** Google Pixel with cash 💶 from
+electronic store provide no personal details .
+
+
+
 
 
 ### 📝 Complete install Guide
@@ -265,6 +269,7 @@ TODO
 - [ ] [Pixel 6 pro protective case](https://shop.nitrokey.com/shop/product/protective-cover-for-nitrophone-2-pro-233?page=2)
 - [ ] [A Hardware Security Key - Yubikey](https://www.yubico.com/is/store/) **Note!** To work is needed Sandboxed Google Play to be installed , how to setup here https://discuss.grapheneos.org/ .
 - [ ] [Output Faraday Folio Wallet](https://slnt.com/collections/faraday-phone-sleeves/products/faraday-folio-wallet) or [Faraday Sleeves for Phones](https://slnt.com/collections/faraday-phone-sleeves/products/faraday-cage-sleeves-for-phones?variant=18335583010913)
+
 ### Additional Resources
 
 GOS Official channel
@@ -279,3 +284,4 @@ Credits
 - https://www.devilreef.net/securing-a-personal-android-phone/
 - https://redandblack.io/blog/2020/how-to-set-up-grapheneos/
 - https://craignuzzo.tech/grapheneos/
+- https://inteltechniques.com/book7a.html
