@@ -254,6 +254,12 @@ as a default search engine in Vanadium .
 - Downloads
   - Ask where to save files ✅
 
+**Tor browser**
+
+- Settings ⚙️
+  - Config bridge - Use a Bridge ✅ 
+  - obfs4 ✅
+
 
 ### The GrapheneOS home screen after setup
 
