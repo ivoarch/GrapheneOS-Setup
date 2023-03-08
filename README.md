@@ -164,7 +164,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Encrypted E2EE cloud storage**
   - [Proton Drive](https://proton.me/drive) 🇨🇭 `EU` 
 - **Notes**
-  - [Quillpad](https://github.com/quillpad/quillpad)
+  - [Joplin](https://joplinapp.org/) 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - **YouTube frontend**
   - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍
 - **Social Media**
