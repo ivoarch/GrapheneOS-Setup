@@ -168,6 +168,8 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) 🌍
 - **Video Player/Music player**
   - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) 🇫🇷 `EU`
+- **Podcast Player**
+  - [AntennaPod](https://antennapod.org/) 🌍
 - **Secure Messaging**
   - [Signal](https://signal.org/en/) 🇺🇸 `US`
 - **VPN**
