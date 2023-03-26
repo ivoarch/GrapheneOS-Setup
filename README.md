@@ -214,7 +214,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
     - Vault timeout set to 1 minute
     - Unlock with pin ✅
   - Tools
-    - Bitwarden web vault - go to web vault > security > key than increase KDF iterations to 600k .
+    - Bitwarden web vault - go to web vault > security > Click on the drop-down menu below the KDF algorithm > Select Argon2id
   - Other > Options
     - Theme - Black
     - Clear clipboard 1 minute
