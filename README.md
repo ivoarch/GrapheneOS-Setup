@@ -75,6 +75,7 @@ Settings > System > Multiple users ✅ .
 - Settings > Security > PIN scrambling > Scramble PIN ✅
 - Settings > Security > Screen lock camera acces ❌
 - Settings > Security > More security settings > SIM card lock - Lock SIM card ✅
+- Settings > Safety & emergency > Wireless emergency alerts - toogle ❌ for operator and presidential 
 - Settings > Privacy > Permission manager > Customize Everything! ✅
 - Settings > Passwords and accounts > Auto-fill service > Bitwarden ✅
 - Settings > System > Language & Input > on screen keyboard > GraphineOS Keyboard > Appearance & Layouts > Theme > Material Dark ✅
