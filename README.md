@@ -33,7 +33,7 @@ On my personal GrapheneOS setup I have several user profiles .
 Settings > System > Multiple users ✅ .
 
 - (**Owner** **#**) has nothing installed only Default apps - Password protected ✅
-- (**Main** 👤) every day work profile only Privacy Android apps - Password protected ✅ - Push Services ❌
+- (**Main** 👤) every day work profile only Privacy Android apps - Fingerprint protected ✅ - Push Services ❌
 - (**Google** 🖕) apps requiring Google Services - Biometric (Fingerprint) protected ✅ - Push Services ✅
 
 ### ⚙️ Settings
@@ -214,7 +214,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
     - Allow Sync on refresh ✅
   - Security
     - Vault timeout set to 1 minute
-    - Unlock with pin ✅
+    - Unlock with Fingerprint ✅
   - Tools
     - Bitwarden web vault - go to web vault > security > Click on the drop-down menu below the KDF algorithm > Select Argon2id
   - Other > Options
