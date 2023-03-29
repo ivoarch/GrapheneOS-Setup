@@ -152,8 +152,10 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - Gallery (Default gallery app of GrapheneOS)
 - **File Manager**
   - [Files](https://github.com/GrapheneOS/Files) - (Default file manager of GrapheneOS)
-- **Password Manager & 2FA**
+- **Password Manager**
   - [Bitwarden](https://bitwarden.com/) 🇺🇸 `US`
+- **2FA Authenticator App**
+  - [Aegis](https://getaegis.app/) 🌍
 - **Email Service/Client/Contacts/Calendar**
   - [Proton, Proton Mail, Proton Calendar](https://proton.me) 🇨🇭 `EU`
   - [K-Mail](https://k9mail.app) 🇺🇸 `US`
