@@ -35,6 +35,7 @@ Settings > System > Multiple users ✅ .
 - (**Owner** **#**) has nothing installed only Default apps - Password protected ✅
 - (**Main** 👤) every day work profile only Privacy Android apps - Fingerprint protected ✅ - Push Services ❌
 - (**Google** 🖕) apps requiring Google Services - Biometric (Fingerprint) protected ✅ - Push Services ✅
+- (**Tor** 😎) only for Tor browser (VPN ❌ ) - Biometric (Fingerprint) protected ✅ - Push Services ❌
 
 ### ⚙️ Settings
 
