@@ -30,12 +30,24 @@ electronic store provide no personal details .
 
 On my personal GrapheneOS setup I have several user profiles .
 .
-Settings > System > Multiple users ✅ .
 
-- (**Owner** **#**) has nothing installed only Default apps - Password protected ✅
-- (**Main** 👤) every day work profile only Privacy Android apps - Fingerprint protected ✅ - Push Services ❌
-- (**Google** 🖕) apps requiring Google Services - Biometric (Fingerprint) protected ✅ - Push Services ✅
+
+To enable them go to "Settings > System > Multiple users ✅ ."
+
+- (**Owner** **#**) has nothing installed only Default apps - Password protected ✅ - Push Services ❌
+- (**Main** 👤) every day work profile only Privacy Android apps - Fingerprint protected ✅ - Push Services ✅
+- (**Google** 🖕) apps requiring login to my Google account and Google Services - Biometric (Fingerprint) protected ✅ - Push Services ✅
 - (**Tor** 😎) only for Tor browser (VPN ❌ ) - Biometric (Fingerprint) protected ✅ - Push Services ❌
+
+#### Enable "Push services"
+
+You need to install all three apps: Google Services Framework, Google Play Services, and Google Play from GrapheneOS Apps Store .
+
+**Important** install them before other apps (Proton Mail, Signal etc...) so notifications are "registered" correctly.
+
+#### Disable lockscreen notifications forwarded to the current user
+
+Send notifications for current user ❌
 
 ### ⚙️ Settings
 
@@ -276,7 +288,7 @@ TODO
 - [X] [Webcam cover](https://shop.nitrokey.com/shop/product/nk-cov-webcam-cover-104?page=2)
 - [ ] [Upscreen privacy screen](https://shop.nitrokey.com/shop/product/privacy-screen-for-nitrophone-2-pro-257)
 - [ ] [Pixel 6 pro protective case](https://shop.nitrokey.com/shop/product/protective-cover-for-nitrophone-2-pro-233?page=2)
-- [ ] [A Hardware Security Key - Yubikey](https://www.yubico.com/is/store/) **Note!** To work is needed Sandboxed Google Play to be installed , how to setup here https://discuss.grapheneos.org/ .
+- [X] [A Hardware Security Key - Yubikey](https://www.yubico.com/is/store/) **Note!** To work is needed Sandboxed Google Play to be installed , how to setup here https://discuss.grapheneos.org/ .
 - [ ] [Output Faraday Folio Wallet](https://slnt.com/collections/faraday-phone-sleeves/products/faraday-folio-wallet) or [Faraday Sleeves for Phones](https://slnt.com/collections/faraday-phone-sleeves/products/faraday-cage-sleeves-for-phones?variant=18335583010913)
 
 ### Additional Resources
