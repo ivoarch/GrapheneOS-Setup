@@ -229,7 +229,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
     - Vault timeout set to 1 minute
     - Unlock with Fingerprint ✅
   - Tools
-    - Bitwarden web vault - go to web vault > security > Click on the drop-down menu below the KDF algorithm > Select Argon2id
+    - Bitwarden web vault - go to web vault > security > Click on the drop-down menu below the KDF algorithm > Select Argon2id (how to enable from Vanadium see https://discuss.grapheneos.org/d/4196-webassembly-on-vanadium )
   - Other > Options
     - Theme - Black
     - Clear clipboard 1 minute
