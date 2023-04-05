@@ -233,7 +233,8 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - Other > Options
     - Theme - Black
     - Clear clipboard 1 minute
-  - Other - Auto-fill service
+    - Copy TOTP automatically ❌
+  - Other > Auto-fill service
     - Ask to add login ❌
       
 
