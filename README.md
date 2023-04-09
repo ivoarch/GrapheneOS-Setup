@@ -205,13 +205,13 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Editor**
   - [Editor](https://github.com/billthefarmer/editor)
 - **Barcode scanner**
-  - [Binary eye](https://github.com/markusfisch/BinaryEye)  🇩🇪 `EU`
+  - [Binary eye](https://github.com/markusfisch/BinaryEye) 🇩🇪 `EU`
 - **Office Suite**
   - [Collabora Office](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/) 🇬🇧 `UK`
 - **PDF Reader**
   - [PdfViewer](https://github.com/GrapheneOS/PdfViewer) (Default pdf reader of GrapheneOS)
 - **Hardware & System information**
-  - [Cpu-info](https://github.com/kamgurgul/cpu-info)
+  - [Cpu-info](https://github.com/kamgurgul/cpu-info) 🇵🇱 `EU`
 - **Translator**
   - [Lingva](https://lingva.ml/) 🇪🇸 `EU`
 - **Shoping**
