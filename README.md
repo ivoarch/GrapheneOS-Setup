@@ -195,6 +195,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Private Browsing**
   - [Tor browser](https://www.torproject.org/download/#android) 🇺🇸 `US`
 - **File Encryption**
+  - [Cryptomator](https://cryptomator.org/) 🇩🇪 `EU`
   - [Droid-Fs](https://forge.chapril.org/hardcoresushi/DroidFS) 🇫🇷 `EU` 
   - [OpenKeychain](https://www.openkeychain.org) 🇩🇪 `EU`
   - [EDS Lite](https://sovworks.com/index.php)
