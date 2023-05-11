@@ -158,7 +158,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Camera**
   - [Camera](https://github.com/GrapheneOS/Camera) (Default camera app of GrapheneOS)
 - **Photo and video gallery**
-  - Gallery (Default gallery app of GrapheneOS)
+  - [Aves](https://github.com/deckerst/aves) 🇨🇵 `EU`
 - **File Manager**
   - [Files](https://github.com/GrapheneOS/Files) - (Default file manager of GrapheneOS)
 - **Password Manager**
