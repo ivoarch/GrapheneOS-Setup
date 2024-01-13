@@ -1,11 +1,5 @@
 # GrapheneOS-Setup Guide✍🏻
 
-### 📱Device selection
-
-- Buy **unlocked new** Google Pixel with cash 💶 from
-electronic store provide no personal details .
-
-
 ### 📝 Complete install Guide
 
 - https://grapheneos.org/install/
@@ -13,7 +7,6 @@ electronic store provide no personal details .
 ### 📝 Practices that I personally try to follow in my setup
 
 > - Secure device with strong password.
-> - Use separate profiles for apps requiring Google Services.
 > - Keep devices up to date to ensure I recieve the latest security patches.
 > - Encrypt sensitive data.
 > - Do not plug my device into unknown ports.
@@ -22,32 +15,20 @@ electronic store provide no personal details .
 >   - verify the name of developers and their actual existence .
 >   - reading the description of the application and its permissions.
 >   - reading user reviews & privacy guides.
-> - Do not use apps or services from 🇨🇳, 🇷🇺, 🇮🇳 and other countries with bad privacy laws .
-> - Trying to replace popular apps and services with open-source and/or offline alternatives (for things like notes, document scanning, tasks, workout tracking, maps, code etc...).
 > - Reduce the number of apps .
 
 ### 👥 Profiles
 
-On my personal GrapheneOS setup I have several user profiles .
-.
-
-
-To enable them go to "Settings > System > Multiple users ✅ ."
-
-- (**Owner** **#**) has nothing installed only Default apps - Password protected ✅ - Push Services ❌
-- (**Main** 👤) every day work profile only Privacy Android apps - Fingerprint protected ✅ - Push Services ✅
-- (**Google** 🖕) apps requiring login to my Google account and Google Services - Biometric (Fingerprint) protected ✅ - Push Services ✅
-- (**Tor** 😎) only for Tor browser (VPN ❌ ) - Biometric (Fingerprint) protected ✅ - Push Services ❌
+- (**Owner** **#**)
+- Password protected ✅
+- Google Services ✅
+- Push Services ✅
 
 #### Enable "Push services"
 
 You need to install all three apps: Google Services Framework, Google Play Services, and Google Play from GrapheneOS Apps Store .
 
 **Important** install them before other apps (Proton Mail, Signal etc...) so notifications are "registered" correctly.
-
-#### Disable lockscreen notifications forwarded to the current user
-
-Send notifications for current user ❌
 
 ### ⚙️ Settings
 
@@ -112,18 +93,12 @@ Send notifications for current user ❌
 
 - [Apps](https://github.com/GrapheneOS/Apps) (Default play store of GrapheneOS)
 - [F-Droid](https://f-droid.org/) 🌍 - installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
-- Google Play Store in a separate profiles (for my bank’s apps, navigation and other apps that need google services etc...) fuck them 🖕
+- Google Play Store
 
 **Note:**
-F-Droid is NOT recommended by [PrivacyGuide](https://www.privacyguides.org/android/#f-droid)! But the other alternatives (Droid-ify, Neo-store, Aurora-store, Obtainium) are not allowed according to my threat model that I try to follow.
+F-Droid is NOT recommended by [PrivacyGuide](https://www.privacyguides.org/android/#f-droid)!
 
 #### F-Droid repository I use:
-
-Bitwarden
-
-```
-https://mobileapp.bitwarden.com/fdroid/
-```
 
 Collabora office
 
@@ -158,13 +133,14 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Camera**
   - [Camera](https://github.com/GrapheneOS/Camera) (Default camera app of GrapheneOS)
 - **Photo and video gallery**
-  - [Aves](https://github.com/deckerst/aves) 🇨🇵 `EU`
+  - Default gallery app of GrapheneOS
 - **File Manager**
-  - [Files](https://github.com/GrapheneOS/Files) - (Default file manager of GrapheneOS)
+  - Default file manager of GrapheneOS
 - **Password Manager**
-  - [Bitwarden](https://bitwarden.com/) 🇺🇸 `US`
+  - [Proton Pass](https://proton.me/pass) 🇨🇭 `EU`
 - **2FA Authenticator App**
   - [Aegis](https://getaegis.app/) 🌍
+  - Proton Pass](https://proton.me/pass) 🇨🇭 `EU`
 - **Email Service/Client/Contacts/Calendar**
   - [Proton, Proton Mail, Proton Calendar](https://proton.me) 🇨🇭 `EU`
   - [K-Mail](https://k9mail.app) 🇺🇸 `US`
@@ -173,17 +149,11 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Encrypted E2EE cloud storage**
   - [Proton Drive](https://proton.me/drive) 🇨🇭 `EU` 
 - **Notes**
-  - [Joplin](https://joplinapp.org/) 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+  - [Notesnook](https://notesnook.com) 🇵🇰 `Pakistam`
 - **YouTube frontend**
   - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍
-- **Social Media**
-  - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) 🌍
 - **Video Player/Music player**
   - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) 🇫🇷 `EU`
-- **Podcast Player**
-  - [AntennaPod](https://antennapod.org/) 🌍
-- **Voice Recorder**
-  - [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) 🇸🇰 `EU`
 - **Secure Messaging**
   - [Signal](https://signal.org/en/) 🇺🇸 `US`
 - **VPN**
@@ -191,54 +161,22 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Private Browsing**
   - [Tor browser](https://www.torproject.org/download/#android) 🇺🇸 `US`
 - **File Encryption**
-  - [Cryptomator](https://cryptomator.org/) 🇩🇪 `EU`
-  - [Droid-Fs](https://forge.chapril.org/hardcoresushi/DroidFS) 🇫🇷 `EU` 
   - [OpenKeychain](https://www.openkeychain.org) 🇩🇪 `EU`
-  - [EDS Lite](https://sovworks.com/index.php)
 - **Rss/Feed reader**
   - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)
-- **Remove Metadata from pictures**
-  - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) 🇪🇸 `EU`
 - **Editor**
   - [Editor](https://github.com/billthefarmer/editor)
-- **Barcode scanner**
-  - [Binary eye](https://github.com/markusfisch/BinaryEye) 🇩🇪 `EU`
 - **Office Suite**
   - [Collabora Office](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/) 🇬🇧 `UK`
 - **PDF Reader**
-  - [PdfViewer](https://github.com/GrapheneOS/PdfViewer) (Default pdf reader of GrapheneOS)
-- **Hardware & System information**
-  - [Cpu-info](https://github.com/kamgurgul/cpu-info) 🇵🇱 `EU`
-- **Translator**
-  - [Lingva](https://lingva.ml/) 🇪🇸 `EU`
+  - Default pdf reader of GrapheneOS)
 - **Shoping**
   - https://digitalgoods.proxysto.re/ 🇩🇪 - ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)) - Buy coupons for privacy-friendly services with Monero or Bitcoin...
   - https://shop.proxysto.re/ 🇩🇪 - Get hardware, books, privacy gadgets and physical voucher cards for Mullvad VPN.
   - https://shopinbit.com/ 🇲🇨 - Europes biggest Bitcoin Store, with over 300,000 products.
 
 
-
 ### ⚙️ App Preferences
-
-**Bitwarden**
-
-- Settings
-  - Auto-fill
-    - Auto-fill services ✅
-  - Manage > Sync
-    - Allow Sync on refresh ✅
-  - Security
-    - Vault timeout set to 1 minute
-    - Unlock with Fingerprint ✅
-  - Tools
-    - Bitwarden web vault - go to web vault > security > Click on the drop-down menu below the KDF algorithm > Select Argon2id (how to enable from Vanadium see https://discuss.grapheneos.org/d/4196-webassembly-on-vanadium )
-  - Other > Options
-    - Theme - Black
-    - Clear clipboard 1 minute
-    - Copy TOTP automatically ✅
-  - Other > Auto-fill service
-    - Ask to add login ❌
-      
 
 **Camera**
 
@@ -246,7 +184,6 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - General
   - Gyroscope suggestion ✅ 
   - Camera sounds ❌
-
 
 **Vanadium**
 
