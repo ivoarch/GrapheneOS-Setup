@@ -91,7 +91,7 @@ You need to install all three apps: Google Services Framework, Google Play Servi
 
 ### 🛍️ App stores
 
-- [Apps](https://github.com/GrapheneOS/Apps) (Default play store of GrapheneOS)
+- [Apps](Default play store of GrapheneOS)
 - [F-Droid](https://f-droid.org/) 🌍 - installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
 - Google Play Store
 
@@ -129,9 +129,9 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 ### 📦 Apps
 
 - **Web Browser**
-  - [Vanadium](https://github.com/GrapheneOS/Vanadium) - (Default Browser of GrapheneOS)
+  - Default Browser of GrapheneOS
 - **Camera**
-  - [Camera](https://github.com/GrapheneOS/Camera) (Default camera app of GrapheneOS)
+  - Default camera app of GrapheneOS
 - **Photo and video gallery**
   - Default gallery app of GrapheneOS
 - **File Manager**
@@ -140,7 +140,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - [Proton Pass](https://proton.me/pass) 🇨🇭 `EU`
 - **2FA Authenticator App**
   - [Aegis](https://getaegis.app/) 🌍
-  - Proton Pass](https://proton.me/pass) 🇨🇭 `EU`
+  - [Proton Pass](https://proton.me/pass) 🇨🇭 `EU`
 - **Email Service/Client/Contacts/Calendar**
   - [Proton, Proton Mail, Proton Calendar](https://proton.me) 🇨🇭 `EU`
   - [K-Mail](https://k9mail.app) 🇺🇸 `US`
@@ -149,7 +149,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Encrypted E2EE cloud storage**
   - [Proton Drive](https://proton.me/drive) 🇨🇭 `EU` 
 - **Notes**
-  - [Notesnook](https://notesnook.com) 🇵🇰 `Pakistam`
+  - [Notesnook](https://notesnook.com) 🇵🇰 `Pakistan`
 - **YouTube frontend**
   - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍
 - **Video Player/Music player**
@@ -239,11 +239,3 @@ GOS Official channel
 - https://grapheneos.org
 - https://grapheneos.org/articles
 - https://discuss.grapheneos.org
-
-Credits
-
-- https://github.com/Scrut1ny/GrapheneOS-Setup
-- https://www.devilreef.net/securing-a-personal-android-phone/
-- https://redandblack.io/blog/2020/how-to-set-up-grapheneos/
-- https://craignuzzo.tech/grapheneos/
-- https://inteltechniques.com/book7a.html
