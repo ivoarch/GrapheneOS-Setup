@@ -158,8 +158,6 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - [Signal](https://signal.org/en/) 🇺🇸 `US`
 - **VPN**
   - [Proton VPN](https://protonvpn.com/) 🇨🇭 `EU`
-- **Private Browsing**
-  - [Tor browser](https://www.torproject.org/download/#android) 🇺🇸 `US`
 - **File Encryption**
   - [OpenKeychain](https://www.openkeychain.org) 🇩🇪 `EU`
 - **Rss/Feed reader**
@@ -210,13 +208,6 @@ as a default search engine in Vanadium .
   - Ask where to save files ✅
 - Enable Passkey
   - type in the address bar: **chrome://flags** then search PASSKEYS , Confirm this by tapping on Enabled for **Google Password Manager and 3rd party passkeys** (https://proton.me/support/pass-use-passkeys)
-    
-**Tor browser**
-
-- Settings ⚙️
-  - Config bridge - Use a Bridge ✅ 
-  - obfs4 ✅
-
 
 ### The GrapheneOS home screen after setup
 
