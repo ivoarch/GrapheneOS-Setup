@@ -107,7 +107,6 @@ https://www.collaboraoffice.com/downloads/fdroid/repo/?fingerprint=573258C84E149
 ```
 
 
-
 Guardian Project
 
 ```
@@ -163,7 +162,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Rss/Feed reader**
   - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)
 - **Editor**
-  - [Editor](https://github.com/billthefarmer/editor)
+  - [Acode](https://acode.app/)
 - **Office Suite**
   - [Collabora Office](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/) 🇬🇧 `UK`
 - **PDF Reader**
