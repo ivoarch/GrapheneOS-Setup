@@ -208,7 +208,9 @@ as a default search engine in Vanadium .
   - ❌
 - Downloads
   - Ask where to save files ✅
-
+- Enable Passkey
+  - type in the address bar: **chrome://flags** then search PASSKEYS , Confirm this by tapping on Enabled for **Google Password Manager and 3rd party passkeys** (https://proton.me/support/pass-use-passkeys)
+    
 **Tor browser**
 
 - Settings ⚙️
