@@ -90,6 +90,7 @@ Disable ❌
 - USB-C port > Charging-only (see https://discuss.grapheneos.org/d/11178-grapheneos-version-2024022800-released/12 )
 - PIN scrambling > Scramble PIN ✅
 - Screen lock camera acces ❌
+- Notify about system process crashes ✅
 - More security settings > SIM card lock - Lock SIM card ✅
 
 #### Location
