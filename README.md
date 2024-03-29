@@ -32,62 +32,97 @@ You need to install all three apps: Google Services Framework, Google Play Servi
 
 ### ⚙️ Settings
 
-- Settings > Network & internet > Internet > Select your WiFi gear icon > select pen icon > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
-- Settings > Network & internet > Internet > LTE connection from your carrier > ⚙️ Allow 2G ❌
-- Settings > Network & internet > Internet > Network preferences > Turn Off Wi-Fi automatically (15 seconds if no network connected)
-- Settings > Network & internet > Internet > Network preferences > Notify for public networks ❌
-- Settings > Network & internet > Internet > VPN > Proton VPN > ⚙️ Always-on VPN ✅
-- Settings > Network & internet > Internet > VPN > Proton VPN > ⚙️ Block connections without VPN ✅
-- Settings > Connected devices > Bluetooth timeout ✅ (15 seconds if no devices connected)
-- Settings > Connected devices > Connection preferences > Printing ❌
-- Settings > Apps > SEE ALL `X` APPS > Customize everything! ✅
-- Settings > Notifications > App settings > Disable ❌ notifications for any apps you do not necessarily need it .
-- Settings > Battery > Battery Percentage ✅
-- Settings > Sound & vibration > Do Not Disturb > Schedules > Sleeping ✅ use a specified custom time to time start 22:00 end 07:00
-- Settings > Sound & vibration > Dial pad tones ❌
-- Settings > Sound & vibration > Screen locking sound ❌
-- Settings > Sound & vibration > Charging sounds and vibration ❌
-- Settings > Sound & vibration > Touch sounds ❌
-- Settings > Sound & vibration > Always show icon when in vibration mode ✅
-- Settings > Display > Adaptive Brightness ✅
-- Settings > Display > Auto-rotate screen ❌
-- Settings > Display > Lock Screen > Privacy > Show sensitive content only when unlocked ✅
-- Settings > Display > Lock Screen > Wake screen for notifications ❌
-- Settings > Display > Lock Screen > Lift to check phone ❌
-- Settings > Display > Dark Theme ✅
-- Settings > Display > Night Light ✅
+#### Network & Internet
+- Select your WiFi gear icon > select pen icon > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
+- Internet > LTE connection from your carrier > ⚙️ Allow 2G ❌
+- Internet > Network preferences > Turn Off Wi-Fi automatically (15 seconds if no network connected)
+- Internet > Network preferences > Notify for public networks ❌
+- Internet > VPN > Proton VPN > ⚙️ Always-on VPN ✅
+- Internet > VPN > Proton VPN > ⚙️ Block connections without VPN ✅
+
+#### Connected devices
+- Bluetooth timeout ✅ (15 seconds if no devices connected)
+- Connection preferences > Printing ❌
+
+#### Apps
+- Apps > SEE ALL `X` APPS > Customize everything! ✅
+
+#### Notifications
+- App settings > Disable ❌ notifications for any apps you do not necessarily need it .
+- Notification History
+Disable ❌
+- Notifications on lock screen > Disable ❌
+
+#### Battery
+- Battery Percentage ✅
+
+#### Sound & vibration
+- Do Not Disturb > Schedules > Sleeping ✅ use a specified custom time to time start 22:00 end 07:00
+- Dial pad tones ❌
+- Screen locking sound ❌
+- Charging sounds and vibration ❌
+- Touch sounds ❌
+- Always show icon when in vibration mode ✅
+
+#### Display
+- Adaptive Brightness ✅
+- Auto-rotate screen ❌
+- Lock Screen > Privacy > Show sensitive content only when unlocked ✅
+- Lock Screen > Wake screen for notifications ❌
+- Lock Screen > Lift to check phone ❌
+- Dark Theme ✅
+- Night Light ✅
   - Don’t use sunset to sunrise (uses device location data) use a specified custom time to time start 22:00 end 07:00
-- Settings > Display > Screen saver ❌
-- Settings > Accessibility > Color and motion > Color correction > Use color correction ✅ select "Grayscale"
-- Settings > Accessibility > Color and motion > Color correction > Colour correction shortcut ✅
-- Settings > Accessibility > Accessibility shortcuts > Accessibility button > Location > Navigation bar ✅
-- Settings > Security > Fingerprint - Tap Fingerprint + PIN and follow the prompts
-- Settings > Security > Screen lock ⚙️ > Lock after screen timeout ✅ (5 seconds)
-- Settings > Security > Auto reboot > 24 Hours ✅
-- Settings > Security > USB Accessories > Deny new USB peripherals ❌
-- Settings > Security > Enable native code debugging ❌
-- Settings > Security > PIN scrambling > Scramble PIN ✅
-- Settings > Security > Screen lock camera acces ❌
-- Settings > Security > More security settings > SIM card lock - Lock SIM card ✅
-- Settings > Safety & emergency > Wireless emergency alerts - toogle ❌ for operator and presidential 
-- Settings > Privacy > Permission manager > Customize Everything! ✅
-- Settings > Passwords and accounts > Auto-fill service > Bitwarden ✅
-- Settings > System > Language & Input > on screen keyboard > GraphineOS Keyboard > Appearance & Layouts > Theme > Material Dark ✅
-- Settings > System > Languages & input > Languages - Add English (UK), Spanish (Spain), Български (Bulgaria)
-- Settings > System > Languages & input > On-screen keyboard > Preferences > Auto-capitalisation ❌
-- Settings > System > Languages & input > On-screen keyboard > Preferences > Sound on keypress ❌
-- Settings > System > Languages & input > On-screen keyboard > Apparience & Layouts > Theme > Material Dark ✅
-- Settings > System > Languages & input > On-screen keyboard > Text correction > Auto-correction ❌
-- Settings > System > Languages & input > On-screen keyboard > Text correction > Show correction sugguestions ❌
-- Settings > System > Languages & input > On-screen keyboard > Text correction > Next-word sugguestions ❌
-- Settings > System > Languages & input > Spell checker ❌
-- Settings > System > Gestures > Quickly open camera ❌
-- Settings > System > Gestures > System navigation > 3-button navigation ✅
-- Settings > System > Gestures > System navigation > 3-button navigation ⚙️ Hold home for Assistant ❌
-- Settings > System > Gestures > Tab to check phone ❌
-- Settings > System > Gestures > Lift to check phone ❌
-- Settings > System > Date & time - Toggle Use locale default ❌ (to allow the 24 hour time format to be used)
-- Settings > About Phone > Device Name > Set "generic name"
+- Screen saver ❌
+
+#### Wallpaper and Style
+
+- Lock screen > select Monochrome theme
+- Home screen > delect Monochrome theme
+- Home screen > Themed icons ✅
+
+#### Security
+- Fingerprint - Tap Fingerprint + PIN and follow the prompts
+- Screen lock ⚙️ > Lock after screen timeout ✅ (5 seconds)
+- Auto reboot > 18 Hours ✅
+- USB Accessories > Allow new USB peripherals when unlocked ✅
+- Enable native code debugging ❌
+- USB-C port > Charging-only (see https://discuss.grapheneos.org/d/11178-grapheneos-version-2024022800-released/12 )
+- PIN scrambling > Scramble PIN ✅
+- Screen lock camera acces ❌
+- More security settings > SIM card lock - Lock SIM card ✅
+
+#### Location
+- Use location ❌
+
+#### Safety & emergency
+- Wireless emergency alerts - toogle ❌ for operator and presidential
+
+#### Privacy
+- Permission manager > Customize Everything! ✅
+
+#### Passwords and accounds
+- Passwords, passkeys and date services > Proton Pass ✅
+
+#### System
+- Language & Input > on screen keyboard > GraphineOS Keyboard > Appearance & Layouts > Theme > Material Dark ✅
+- Languages & input > Languages - Add English (UK), Spanish (Spain), Български (Bulgaria)
+- Languages & input > On-screen keyboard > Preferences > Auto-capitalisation ❌
+- Languages & input > On-screen keyboard > Preferences > Sound on keypress ❌
+- Languages & input > On-screen keyboard > Apparience & Layouts > Theme > Material Dark ✅
+- Languages & input > On-screen keyboard > Text correction > Auto-correction ❌
+- Languages & input > On-screen keyboard > Text correction > Show correction sugguestions ❌
+- Languages & input > On-screen keyboard > Text correction > Next-word sugguestions ❌
+- Languages & input > Spell checker ❌
+- Gestures > Quickly open camera ❌
+- Gestures > System navigation > 3-button navigation ✅
+- Gestures > System navigation > 3-button navigation ⚙️ Hold home for Assistant ❌
+- Gestures > Tab to check phone ❌
+- Gestures > Lift to check phone ❌
+- Date & time - Toggle Use locale default ❌ (to allow the 24 hour time format to be used)
+
+#### About Phone
+- Device Name > Set "generic name"
 
 ### 🛍️ App stores
 
