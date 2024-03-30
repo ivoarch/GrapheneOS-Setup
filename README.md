@@ -82,6 +82,7 @@ Disable ❌
 #### Wallpaper and Style
 
 - Lock screen > select Monochrome theme
+- Lock screen > Show notifycations on the lock screen ❌
 - Home screen > select Monochrome theme
 - Home screen > Themed icons ✅
 
