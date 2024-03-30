@@ -99,7 +99,7 @@ Disable ❌
 - More security settings > SIM card lock - Lock SIM card ✅
 
 #### Location
-- Use location ❌
+- Use location ❌ (Enable only when is using Maps for navegation)
 
 #### Safety & emergency
 - Wireless emergency alerts - toogle ❌ for operator and presidential
