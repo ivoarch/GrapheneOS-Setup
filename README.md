@@ -78,7 +78,7 @@ Disable ❌
 #### Wallpaper and Style
 
 - Lock screen > select Monochrome theme
-- Home screen > delect Monochrome theme
+- Home screen > select Monochrome theme
 - Home screen > Themed icons ✅
 
 #### Security
@@ -171,6 +171,11 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - Default gallery app of GrapheneOS
 - **File Manager**
   - Default file manager of GrapheneOS
+- **PDF Reader**
+  - Default pdf reader of GrapheneOS
+- **Contacts sync**
+  - Default contacts app of GrapheneOS
+  - [Tuta](https://tuta.com/) 🇩🇪 `EU`
 - **Password Manager**
   - [Proton Pass](https://proton.me/pass) 🇨🇭 `EU`
 - **2FA Authenticator App**
@@ -204,8 +209,6 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - [Acode](https://acode.app/)
 - **Office Suite**
   - [Collabora Office](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/) 🇬🇧 `UK`
-- **PDF Reader**
-  - Default pdf reader of GrapheneOS)
 - **Navigation Maps**
   - Google Maps
 - **Shoping**
@@ -246,7 +249,7 @@ as a default search engine in Vanadium .
   - ❌
 - Downloads
   - Ask where to save files ✅
-- Enable Passkey
+- Enable Passkeys
   - type in the address bar: **chrome://flags** then search PASSKEYS , Confirm this by tapping on Enabled for **Google Password Manager and 3rd party passkeys** (https://proton.me/support/pass-use-passkeys)
 
 ### The GrapheneOS home screen after setup
