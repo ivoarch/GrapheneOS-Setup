@@ -146,13 +146,6 @@ Collabora office
 https://www.collaboraoffice.com/downloads/fdroid/repo/?fingerprint=573258C84E149B5F4D9299E7434B2B69A8410372921D4AE586BA91EC767892CC
 ```
 
-
-Guardian Project
-
-```
-https://guardianproject.info/fdroid/repo/
-```
-
 NewPipe Upstream
 
 ```
