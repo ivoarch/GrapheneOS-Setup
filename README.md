@@ -58,6 +58,9 @@ Disable ❌
 
 #### Sound & vibration
 - Do Not Disturb > Schedules > Sleeping ✅ use a specified custom time to time start 22:00 end 07:00
+- Do not Disturb > People > Calls > Starred Contacts (family members)
+- Do not Disturb > People > Calls > Allow repeat callers ❌
+- Do not Disturb > People > Messages > None ❌
 - Media > Hide media player ❌
 - Dial pad tones ❌
 - Screen locking sound ❌
