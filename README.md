@@ -58,6 +58,7 @@ Disable ❌
 
 #### Sound & vibration
 - Do Not Disturb > Schedules > Sleeping ✅ use a specified custom time to time start 22:00 end 07:00
+- Media > Hide media player ❌
 - Dial pad tones ❌
 - Screen locking sound ❌
 - Charging sounds and vibration ❌
