@@ -92,7 +92,7 @@ Disable ❌
 - Auto reboot > 18 Hours ✅
 - USB Accessories > Allow new USB peripherals when unlocked ✅
 - Enable native code debugging ❌
-- USB-C port > Charging-only (see https://discuss.grapheneos.org/d/11178-grapheneos-version-2024022800-released/12 )
+- USB-C port > Charging-only (see https://discuss.grapheneos.org/d/11178-grapheneos-version-2024022800-released/12 ) Note - Set to ON when is need to use Yubikey .
 - PIN scrambling > Scramble PIN ✅
 - Screen lock camera acces ❌
 - Notify about system process crashes ✅
