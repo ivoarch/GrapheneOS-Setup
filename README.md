@@ -187,7 +187,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Encrypted E2EE cloud storage**
   - [Proton Drive](https://proton.me/drive) 🇨🇭 `EU` 
 - **Notes**
-  - [Notesnook](https://notesnook.com) 🇵🇰 `Pakistan`
+  - [Joplin](https://joplinapp.org/)
 - **Private Photo cloud backup**
   - [Ente](https://ente.io/) 
   - [Proton Drive](https://proton.me/drive) 🇨🇭 `EU`
