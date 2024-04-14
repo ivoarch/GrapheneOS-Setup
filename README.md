@@ -173,46 +173,46 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - Default pdf reader of GrapheneOS
 - **Contacts sync**
   - Default contacts app of GrapheneOS
-  - [Tuta](https://tuta.com/) 🇩🇪 `EU`
+  - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺
 - **Password Manager**
-  - [Proton Pass](https://proton.me/pass) 🇨🇭 `EU`
+  - [Proton Pass](https://proton.me/pass) 🇨🇭
 - **2FA Authenticator App**
   - [Aegis](https://getaegis.app/) 🌍
-  - [Proton Pass](https://proton.me/pass) 🇨🇭 `EU`
+  - [Proton Pass](https://proton.me/pass) 🇨🇭 
 - **Email Service/Client/Contacts/Calendar**
-  - [Proton, Proton Mail, Proton Calendar](https://proton.me) 🇨🇭 `EU`
-  - [K-Mail](https://k9mail.app) 🇺🇸 `US`
+  - [Proton, Proton Mail, Proton Calendar](https://proton.me) 🇨🇭 
+  - [K-Mail](https://k9mail.app) 🇺🇸 
 - **Anti-spam email protection**
-  - [Simple Login](https://simplelogin.io/) 🇫🇷 🇨🇭 `EU`
+  - [Simple Login](https://simplelogin.io/) 🇫🇷 🇨🇭 🇪🇺
 - **Encrypted E2EE cloud storage**
-  - [Proton Drive](https://proton.me/drive) 🇨🇭 `EU` 
+  - [Proton Drive](https://proton.me/drive) 🇨🇭  
 - **Notes**
   - [Joplin](https://joplinapp.org/) 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - **Private Photo cloud backup**
   - [Ente](https://ente.io/) 
-  - [Proton Drive](https://proton.me/drive) 🇨🇭 `EU`
+  - [Proton Drive](https://proton.me/drive) 🇨🇭
 - **YouTube frontend**
   - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍
 - **Video Player/Music player**
-  - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) 🇫🇷 `EU`
+  - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) 🇫🇷 🇪🇺
 - **Secure Messaging**
-  - [Signal](https://signal.org/en/) 🇺🇸 `US`
+  - [Signal](https://signal.org/en/) 🇺🇸
 - **VPN**
-  - [Proton VPN](https://protonvpn.com/) 🇨🇭 `EU`
+  - [Proton VPN](https://protonvpn.com/) 🇨🇭 
 - **File Encryption**
-  - [OpenKeychain](https://www.openkeychain.org) 🇩🇪 `EU`
+  - [OpenKeychain](https://www.openkeychain.org) 🇩🇪 🇪🇺
 - **Rss/Feed reader**
   - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)
 - **Editor**
   - [Acode](https://acode.app/)
 - **Office Suite**
-  - [Collabora Office](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/) 🇬🇧 `UK`
+  - [Collabora Office](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/) 🇬🇧
 - **Navigation Maps**
   - Google Maps
 - **Shoping**
-  - https://digitalgoods.proxysto.re/ 🇩🇪 - ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)) - Buy coupons for privacy-friendly services with Monero or Bitcoin...
-  - https://shop.proxysto.re/ 🇩🇪 - Get hardware, books, privacy gadgets and physical voucher cards for Mullvad VPN.
-  - https://shopinbit.com/ 🇲🇨 - Europes biggest Bitcoin Store, with over 300,000 products.
+  - https://digitalgoods.proxysto.re/ 🇩🇪 🇪🇺 - ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)) - Buy coupons for privacy-friendly services with Monero or Bitcoin...
+  - https://shop.proxysto.re/ 🇩🇪 🇪🇺  - Get hardware, books, privacy gadgets and physical voucher cards for Mullvad VPN.
+  - https://shopinbit.com/ 🇲🇨 🇪🇺 - Europes biggest Bitcoin Store, with over 300,000 products.
 
 
 ### ⚙️ App Preferences
