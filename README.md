@@ -189,7 +189,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Notes**
   - [Joplin](https://joplinapp.org/) 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - **Private Photo cloud backup**
-  - [Ente](https://ente.io/) 
+  - [Ente](https://ente.io/) 🇵🇰
   - [Proton Drive](https://proton.me/drive) 🇨🇭
 - **YouTube frontend**
   - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍
@@ -228,7 +228,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 
 - Settings
   - Search engine - Add [StartPage](https://support.startpage.com/hc/en-us/articles/8623502498964-Make-Startpage-the-default-search-engine-in-Chrome-Android-) 🇳🇱 🇪🇺
-as a default search engine in Vanadium .
+as a default search engine in Vanadium
 - Passwords
   - Save Passwords ❌
   - Auto Sign-in ❌
@@ -236,6 +236,8 @@ as a default search engine in Vanadium .
   - Save and fill paymend methods ❌
 - Addresses and more
   - Save and fill addresses ❌
+- Autofill options
+  - Use other providers ✅
 - Privacy and security
   - Auto-complete searches and URLs ❌
   - Acces paymend methods ❌
