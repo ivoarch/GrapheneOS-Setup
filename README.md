@@ -195,8 +195,8 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍
 - **Video Player/Music player**
   - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) 🇫🇷 🇪🇺
-- **Secure Messaging**
-  - [Signal](https://signal.org/en/) 🇺🇸
+- **Messaging**
+  - [WhatsApp](https://www.whatsapp.com) 🇺🇸
 - **VPN**
   - [Proton VPN](https://protonvpn.com/) 🇨🇭 
 - **File Encryption**
