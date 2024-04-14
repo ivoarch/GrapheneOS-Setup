@@ -37,8 +37,10 @@ You need to install all three apps: Google Services Framework, Google Play Servi
 - Internet > LTE connection from your carrier > ⚙️ Allow 2G ❌
 - Internet > Network preferences > Turn Off Wi-Fi automatically (15 seconds if no network connected)
 - Internet > Network preferences > Notify for public networks ❌
-- Internet > VPN > Proton VPN > ⚙️ Always-on VPN ✅
-- Internet > VPN > Proton VPN > ⚙️ Block connections without VPN ✅
+- SIMs > ADD SIM "+" Scan QR Code
+- eSIM support ✅ (eSIM management no longer requires sandboxed Google Play  https://grapheneos.org/releases#2024012600)
+- VPN > Proton VPN > ⚙️ Always-on VPN ✅
+- VPN > Proton VPN > ⚙️ Block connections without VPN ✅
 
 #### Connected devices
 - Bluetooth timeout ✅ (15 seconds if no devices connected)
