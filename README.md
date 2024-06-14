@@ -253,7 +253,11 @@ as a default search engine in Vanadium
   - Ask where to save files ✅
 - Enable Passkeys
   - type in the address bar: **chrome://flags** then search PASSKEYS , Confirm this by tapping on Enabled for **Google Password Manager and 3rd party passkeys** (https://proton.me/support/pass-use-passkeys)
-
+- Enable Screenshots in Incognito mode
+  - Navigate to **chrome://flags**
+  - Search for "Incognito Screenshot" and    mark and mark the incognito-screenshot as Enabled
+  - Restart Chrome
+    
 ### The GrapheneOS home screen after setup
 
 <img src="https://raw.githubusercontent.com/ivoarch/GrapheneOS-Setup/main/Screenshot_20240414-140335.png" width="250" height="550" />
