@@ -143,12 +143,6 @@ F-Droid is NOT recommended by [PrivacyGuide](https://www.privacyguides.org/andro
 
 #### F-Droid repository I use:
 
-Collabora office
-
-```
-https://www.collaboraoffice.com/downloads/fdroid/repo/?fingerprint=573258C84E149B5F4D9299E7434B2B69A8410372921D4AE586BA91EC767892CC
-```
-
 NewPipe Upstream
 
 ```
@@ -208,7 +202,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Editor**
   - [Acode](https://acode.app/)
 - **Office Suite**
-  - [Collabora Office](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/) 🇬🇧
+  - [Docs](https://proton.me/blog/docs-proton-drive) in Proton Drive 🇨🇭
 - **Navigation Maps**
   - Google Maps
 - **Shoping**
