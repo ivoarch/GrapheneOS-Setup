@@ -169,7 +169,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - Default pdf reader of GrapheneOS
 - **Contacts sync**
   - Default contacts app of GrapheneOS
-  - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺
+  - Manual backup *.vcf file
 - **Password Manager**
   - [Proton Pass](https://proton.me/pass) 🇨🇭
 - **2FA Authenticator App**
