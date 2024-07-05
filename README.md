@@ -269,7 +269,7 @@ TODO
 - [X] [A Hardware Security Key - Yubikey](https://www.yubico.com/is/store/) 
 > **Note!** To work is needed Sandboxed Google Play to be installed , how to setup here https://discuss.grapheneos.org/ .
 - [ ] [Output Faraday Folio Wallet](https://slnt.com/collections/faraday-phone-sleeves/products/faraday-folio-wallet) or [Faraday Sleeves for Phones](https://slnt.com/collections/faraday-phone-sleeves/products/faraday-cage-sleeves-for-phones?variant=18335583010913)
-
+- [ ] [Microphone Blocker](https://mic-lock.com/products/mic-lock-usb-c-single-end)
 ### Additional Resources
 
 GOS Official channel
