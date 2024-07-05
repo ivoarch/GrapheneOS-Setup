@@ -277,3 +277,7 @@ GOS Official channel
 - https://grapheneos.org
 - https://grapheneos.org/articles
 - https://discuss.grapheneos.org
+
+GrapheneOS Info app
+
+App through which you can get information about the latest releases of GrapheneOS, links to our community spaces, and details on how to make donations .
