@@ -252,7 +252,7 @@ as a default search engine in Vanadium
 - Enable Screenshots in Incognito mode
   - Navigate to **chrome://flags**
   - Search for "Incognito Screenshot" and    mark and mark the incognito-screenshot as Enabled
-  - Restart Chrome
+  - Restart Vanadium
     
 ### The GrapheneOS home screen after setup
 
