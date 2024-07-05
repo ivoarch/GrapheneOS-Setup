@@ -205,6 +205,8 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - [Docs](https://proton.me/blog/docs-proton-drive) in Proton Drive 🇨🇭
 - **Navigation Maps**
   - Google Maps
+- **Cryptocurrency wallet**
+  - [Tangem](https://tangem.com) 🇨🇭
 - **Shoping**
   - https://digitalgoods.proxysto.re/ 🇩🇪 🇪🇺 - ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)) - Buy coupons for privacy-friendly services with Monero or Bitcoin...
   - https://shop.proxysto.re/ 🇩🇪 🇪🇺  - Get hardware, books, privacy gadgets and physical voucher cards for Mullvad VPN.
