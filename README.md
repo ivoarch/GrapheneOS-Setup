@@ -199,8 +199,8 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - [OpenKeychain](https://www.openkeychain.org) 🇩🇪 🇪🇺
 - **Rss/Feed reader**
   - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)
-- **Editor**
-  - [Acode](https://acode.app/)
+- **Private Text, Markdown Editor**
+  - [BeauTyXT](https://beautyxt.app/)
 - **Office Suite**
   - [Docs](https://proton.me/blog/docs-proton-drive) in Proton Drive 🇨🇭
 - **Navigation Maps**
