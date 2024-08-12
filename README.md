@@ -190,8 +190,8 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Encrypted E2EE cloud storage**
   - [Koofr](https://koofr.eu) 🇸🇮 🇪🇺
   - [koofr Vault](https://vault.koofr.net/) 🇸🇮 🇪🇺
-- **Notes**
-  - [Joplin](https://joplinapp.org/) 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+- **Notes E2EE**
+  - [Joplin](https://joplinapp.org/) Sync via WebDav and Koofr 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - **Private Photo cloud backup**
   - [Ente](https://ente.io/) 🇵🇰
 - **YouTube frontend**
@@ -199,6 +199,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Video Player/Music player**
   - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) 🇫🇷 🇪🇺
 - **Messaging**
+  - Default messages app of GrapheneOS
   - [WhatsApp](https://www.whatsapp.com) 🇺🇸
 - **VPN**
   - [Mullvad](https://mullvad.net/en) 🇸🇪  🇪🇺
