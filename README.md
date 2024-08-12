@@ -186,7 +186,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺
   - [K-Mail](https://k9mail.app) 🇺🇸 
 - **Anti-spam email protection**
-  - [Addy](https://addy.io/)
+  - [Addy](https://addy.io/) 🇬🇧 / android app 🇳🇱
 - **Encrypted E2EE cloud storage**
   - [Koofr](https://koofr.eu) 🇸🇮 🇪🇺
   - [koofr Vault](https://vault.koofr.net/) 🇸🇮 🇪🇺
@@ -217,7 +217,9 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Hardware & System information**
   - [Cpu-info](https://github.com/kamgurgul/cpu-info) 🇵🇱 🇪🇺
 - **Translator**
-  - [Lingva](https://lingva.ml/) 🇪🇸 🇪🇺 
+  - [Lingva](https://lingva.ml/) 🇪🇸 🇪🇺
+- **Audio Recorder**
+  - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) 🌍
 - **Shoping**
   - https://digitalgoods.proxysto.re/ 🇩🇪 🇪🇺 - ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)) - Buy coupons for privacy-friendly services with Monero or Bitcoin...
   - https://shop.proxysto.re/ 🇩🇪 🇪🇺  - Get hardware, books, privacy gadgets and physical voucher cards for Mullvad VPN.
