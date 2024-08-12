@@ -281,7 +281,7 @@ as a default search engine in Vanadium
 - [ ] [Pixel 6 pro protective case](https://shop.nitrokey.com/shop/product/protective-cover-for-nitrophone-2-pro-233?page=2)
 - [X] [A Hardware Security Key - Yubikey](https://www.yubico.com/is/store/) 
 > 📢 **Important!** To work is needed Sandboxed Google Play to be installed!
-- [ ] [Output Faraday Folio Wallet](https://slnt.com/collections/faraday-phone-sleeves/products/faraday-folio-wallet) or [Faraday Sleeves for Phones](https://slnt.com/collections/faraday-phone-sleeves/products/faraday-cage-sleeves-for-phones?variant=18335583010913)
+- [ ] [Faraday Sleeves for Phones](https://slnt.com/collections/faraday-phone-sleeves/products/faraday-cage-sleeves-for-phones?variant=18335583010913)
 - [ ] [Microphone Blocker](https://mic-lock.com/products/mic-lock-usb-c-single-end)
 
 ### Additional Resources
