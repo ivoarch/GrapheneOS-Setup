@@ -28,7 +28,7 @@
 
 You need to install all three apps: **Google Services Framework, Google Play Services, and Google Play** from GrapheneOS Apps Store .
 
-> **Important** install them before other apps (Proton Mail, Signal etc...) so notifications are "registered" correctly.
+> 📢 **Important** install them before other apps (Proton Mail, Signal etc...) so notifications are "registered" correctly.
 
 ### ⚙️ Settings
 
