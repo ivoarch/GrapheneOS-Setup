@@ -4,7 +4,7 @@
 
 - https://grapheneos.org/install/
 
-### 📝 Practices that I personally try to follow in my setup
+### 📖 Practices that I personally try to follow in my setup
 
 > - Secure device with strong password.
 > - Keep devices up to date to ensure I recieve the latest security patches.
@@ -142,7 +142,7 @@ Disable ❌
 - [F-Droid](https://f-droid.org/) 🌍 - installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
 - Google Play Store
 
-> **Note:**
+> 🚩 **Note that:**
 F-Droid is NOT recommended by [PrivacyGuide](https://www.privacyguides.org/android/#f-droid)!
 
 #### F-Droid repository I use:
@@ -271,7 +271,7 @@ as a default search engine in Vanadium
 
 <img src="https://raw.githubusercontent.com/ivoarch/GrapheneOS-Setup/main/Screenshot_20240812-125046.png" width="250" height="550" />
 
-> Screenshot of my phone as of 12-08-2024
+> 🎴 Screenshot of my phone as of 12-08-2024
 
 ### Accessories
 
