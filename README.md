@@ -226,7 +226,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 **Vanadium**
 
 - Settings
-  - Search engine - Add [Starpage](https://help.kagi.com/kagi/getting-started/setting-default.html) 🇳🇱 🇪🇺
+  - Search engine - Add [Startpage](https://www.startpage.com/) 🇳🇱 🇪🇺
 as a default search engine in Vanadium
 - Passwords
   - Save Passwords ❌
