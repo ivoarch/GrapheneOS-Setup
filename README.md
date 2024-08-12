@@ -26,24 +26,24 @@
 
 #### Enable "Push services"
 
-You need to install all three apps: Google Services Framework, Google Play Services, and Google Play from GrapheneOS Apps Store .
+You need to install all three apps: **Google Services Framework, Google Play Services, and Google Play** from GrapheneOS Apps Store .
 
-**Important** install them before other apps (Proton Mail, Signal etc...) so notifications are "registered" correctly.
+> **Important** install them before other apps (Proton Mail, Signal etc...) so notifications are "registered" correctly.
 
 ### ⚙️ Settings
 
 #### Network & Internet
-- Select your WiFi gear icon > select pen icon > Advanced options > Privacy > Use per-connection randomized MAC (default) ✅
 - Internet > LTE connection from your carrier > ⚙️ Allow 2G ❌
 - Internet > Network preferences > Turn Off Wi-Fi automatically (15 seconds if no network connected)
 - Internet > Network preferences > Notify for public networks ❌
 - SIMs > ADD SIM "+" Scan QR Code
 - eSIM support ✅ (eSIM management no longer requires sandboxed Google Play  https://grapheneos.org/releases#2024012600)
-- VPN > Proton VPN > ⚙️ Always-on VPN ✅
-- VPN > Proton VPN > ⚙️ Block connections without VPN ✅
+- VPN > Mullvad VPN > ⚙️ Always-on VPN ✅
+- VPN > Mullvad VPN > ⚙️ Block connections without VPN ✅
 
 #### Connected devices
 - Bluetooth timeout ✅ (15 seconds if no devices connected)
+- Connection preferences > NFC ❌
 - Connection preferences > Printing ❌
 
 #### Apps
@@ -57,6 +57,7 @@ Disable ❌
 
 #### Battery
 - Battery Percentage ✅
+- Battery share ❌
 
 #### Sound & vibration
 - Do Not Disturb > Schedules > Sleeping ✅ use a specified custom time to time start 22:00 end 07:00
@@ -71,11 +72,12 @@ Disable ❌
 - Always show icon when in vibration mode ✅
 
 #### Display
-- Adaptive Brightness ✅
+- Adaptive Brightness ❌
 - Auto-rotate screen ❌
-- Lock Screen > Privacy > Show sensitive content only when unlocked ✅
+- Lock Screen > Privacy > Don't show notificationa at all ✅
 - Lock Screen > Wake screen for notifications ❌
 - Lock Screen > Lift to check phone ❌
+- Lock Screen > Tab to check phone ❌
 - Dark Theme ✅
 - Night Light ✅
   - Don’t use sunset to sunrise (uses device location data) use a specified custom time to time start 22:00 end 07:00
@@ -89,13 +91,15 @@ Disable ❌
 - Home screen > Themed icons ✅
 
 #### Security
-- Fingerprint - Tap Fingerprint + PIN and follow the prompts
+- Fingerprint > Tap Fingerprint + PIN and follow the prompts
+- Fingerprint > Use for screen unlock ❌ 
 - Screen lock ⚙️ > Lock after screen timeout ✅ (5 seconds)
 - Auto reboot > 18 Hours ✅
 - USB Accessories > Allow new USB peripherals when unlocked ✅
 - Enable native code debugging ❌
 - USB-C port > Charging-only when locked, except before first unlock (see https://discuss.grapheneos.org/d/11178-grapheneos-version-2024022800-released/12 and https://discuss.grapheneos.org/d/11721-improvements-to-factory-resets-by-google-due-to-reports-by-grapheneos 
 - PIN scrambling > Scramble PIN ✅
+- Durres Password ✅ 
 - Screen lock camera acces ❌
 - Notify about system process crashes ✅
 - More security settings > SIM card lock - Lock SIM card ✅
@@ -110,7 +114,7 @@ Disable ❌
 - Permission manager > Customize Everything! ✅
 
 #### Passwords and accounds
-- Passwords, passkeys and date services > Proton Pass ✅
+- Passwords, passkeys and date services > Bitwarden ✅
 
 #### System
 - Language & Input > on screen keyboard > GraphineOS Keyboard > Appearance & Layouts > Theme > Material Dark ✅
@@ -138,7 +142,7 @@ Disable ❌
 - [F-Droid](https://f-droid.org/) 🌍 - installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
 - Google Play Store
 
-**Note:**
+> **Note:**
 F-Droid is NOT recommended by [PrivacyGuide](https://www.privacyguides.org/android/#f-droid)!
 
 #### F-Droid repository I use:
@@ -169,24 +173,21 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - Default pdf reader of GrapheneOS
 - **Contacts sync**
   - Default contacts app of GrapheneOS
-  - Manual backup *.vcf file
-- **Password Manager**
-  - [Proton Pass](https://proton.me/pass) 🇨🇭
-- **2FA Authenticator App**
-  - [Aegis](https://getaegis.app/) 🌍
-  - [Proton Pass](https://proton.me/pass) 🇨🇭 
+  - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺
+- **Password Manager & 2FA Authenticator App**
+  - [Bitwarden](https://bitwarden.com/) 🇺🇸 + 🇪🇺 servers
 - **Email Service/Client/Contacts/Calendar**
-  - [Proton, Proton Mail, Proton Calendar](https://proton.me) 🇨🇭 
+  - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺
   - [K-Mail](https://k9mail.app) 🇺🇸 
 - **Anti-spam email protection**
-  - [Simple Login](https://simplelogin.io/) 🇫🇷 🇨🇭 🇪🇺
+  - [Addy](https://addy.io/)
 - **Encrypted E2EE cloud storage**
-  - [Proton Drive](https://proton.me/drive) 🇨🇭  
+  - [Koofr](https://koofr.eu) 🇸🇮 🇪🇺
+  - [koofr Vault](https://vault.koofr.net/) 🇸🇮 🇪🇺
 - **Notes**
   - [Joplin](https://joplinapp.org/) 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - **Private Photo cloud backup**
   - [Ente](https://ente.io/) 🇵🇰
-  - [Proton Drive](https://proton.me/drive) 🇨🇭
 - **YouTube frontend**
   - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍
 - **Video Player/Music player**
@@ -194,7 +195,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Messaging**
   - [WhatsApp](https://www.whatsapp.com) 🇺🇸
 - **VPN**
-  - [Proton VPN](https://protonvpn.com/) 🇨🇭 
+  - [Mullvad](https://mullvad.net/en) 🇸🇪  🇪🇺
 - **File Encryption**
   - [OpenKeychain](https://www.openkeychain.org) 🇩🇪 🇪🇺
 - **Rss/Feed reader**
@@ -202,7 +203,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Private Text, Markdown Editor**
   - [BeauTyXT](https://beautyxt.app/)
 - **Office Suite**
-  - [Docs](https://proton.me/blog/docs-proton-drive) in Proton Drive 🇨🇭
+  - [Collabora](https://www.collabora.com/)
 - **Navigation Maps**
   - Google Maps
 - **Cryptocurrency wallet**
@@ -225,7 +226,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 **Vanadium**
 
 - Settings
-  - Search engine - Add [Kagi](https://help.kagi.com/kagi/getting-started/setting-default.html) 🇺🇸
+  - Search engine - Add [Starpage](https://help.kagi.com/kagi/getting-started/setting-default.html) 🇳🇱 🇪🇺
 as a default search engine in Vanadium
 - Passwords
   - Save Passwords ❌
@@ -248,7 +249,7 @@ as a default search engine in Vanadium
 - Downloads
   - Ask where to save files ✅
 - Enable Passkeys
-  - type in the address bar: **chrome://flags** then search PASSKEYS , Confirm this by tapping on Enabled for **Google Password Manager and 3rd party passkeys** (https://proton.me/support/pass-use-passkeys)
+  - type in the address bar: **chrome://flags** then search PASSKEYS , Confirm this by tapping on Enabled for **Google Password Manager and 3rd party passkeys**
 - Enable Screenshots in Incognito mode
   - Navigate to **chrome://flags**
   - Search for "Incognito Screenshot" and    mark and mark the incognito-screenshot as Enabled
