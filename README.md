@@ -143,7 +143,7 @@ Disable ❌
 - Google Play Store
 
 > 🚩 **Note that:**
-F-Droid is NOT recommended by [PrivacyGuide](https://www.privacyguides.org/android/#f-droid)!
+F-Droid is NOT recommended by [PrivacyGuide](https://www.privacyguides.org/en/android/obtaining-apps/#f-droid) !
 
 #### F-Droid repository I use:
 
