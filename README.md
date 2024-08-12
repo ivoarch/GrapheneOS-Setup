@@ -147,6 +147,12 @@ F-Droid is NOT recommended by [PrivacyGuide](https://www.privacyguides.org/andro
 
 #### F-Droid repository I use:
 
+Collabora Office
+
+```
+https://www.collaboraoffice.com/downloads/fdroid/repo/?fingerprint=573258C84E149B5F4D9299E7434B2B69A8410372921D4AE586BA91EC767892CC
+```
+
 NewPipe Upstream
 
 ```
@@ -209,7 +215,9 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Cryptocurrency wallet**
   - [Tangem](https://tangem.com) 🇨🇭
 - **Hardware & System information**
-  - [Cpu-info](https://github.com/kamgurgul/cpu-info)  🇵🇱 🇪🇺
+  - [Cpu-info](https://github.com/kamgurgul/cpu-info) 🇵🇱 🇪🇺
+- **Translator**
+  - [Lingva](https://lingva.ml/) 🇪🇸 🇪🇺 
 - **Shoping**
   - https://digitalgoods.proxysto.re/ 🇩🇪 🇪🇺 - ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)) - Buy coupons for privacy-friendly services with Monero or Bitcoin...
   - https://shop.proxysto.re/ 🇩🇪 🇪🇺  - Get hardware, books, privacy gadgets and physical voucher cards for Mullvad VPN.
