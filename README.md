@@ -147,12 +147,6 @@ F-Droid is NOT recommended by [PrivacyGuide](https://www.privacyguides.org/en/an
 
 #### F-Droid repository I use:
 
-Collabora Office
-
-```
-https://www.collaboraoffice.com/downloads/fdroid/repo/?fingerprint=573258C84E149B5F4D9299E7434B2B69A8410372921D4AE586BA91EC767892CC
-```
-
 NewPipe Upstream
 
 ```
@@ -209,8 +203,8 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)
 - **Private Text, Markdown Editor**
   - [BeauTyXT](https://beautyxt.app/)
-- **Office Suite**
-  - [Collabora Office](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/) 🇬🇧
+- **E2EE Office Suite**
+  - [CryptPad](https://cryptpad.org/) 🇫🇷 🇪🇺
 - **Navigation Maps**
   - Google Maps
 - **Cryptocurrency wallet**
