@@ -183,7 +183,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
   - [Addy](https://addy.io/) 🇬🇧 / android app 🇳🇱
 - **Encrypted E2EE cloud storage**
   - [Koofr](https://koofr.eu) 🇸🇮 🇪🇺
-  - [koofr Vault](https://vault.koofr.net/) 🇸🇮 🇪🇺
+  - [Koofr Vault](https://vault.koofr.net/) 🇸🇮 🇪🇺
 - **Notes E2EE**
   - [Joplin](https://joplinapp.org/) Sync via WebDav and Koofr 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - **Private Photo cloud backup**
@@ -212,7 +212,7 @@ https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743B
 - **Hardware & System information**
   - [Cpu-info](https://github.com/kamgurgul/cpu-info) 🇵🇱 🇪🇺
 - **Translator**
-  - [Lingva](https://lingva.ml/) 🇪🇸 🇪🇺
+  - [Deepl](https://www.deepl.com/en/translator)  🇩🇪🇪🇺
 - **Audio Recorder**
   - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) 🌍
 - **Shoping**
