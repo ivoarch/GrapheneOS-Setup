@@ -138,27 +138,10 @@ Disable ❌
 
 ### 🛍️ App stores
 
-- [Apps](Default play store of GrapheneOS)
+- Apps (Default play store of GrapheneOS)
 - [Accrescent](https://accrescent.app/) - A novel Android app store focused on security, privacy, and usability).
-- [F-Droid](https://f-droid.org/) 🌍 - installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
+- [Obtainium](https://obtainium.imranr.dev/) Get Android app updates straight from the source)
 - Google Play Store
-
-> 🚩 **Note that:**
-F-Droid is NOT recommended by [PrivacyGuide](https://www.privacyguides.org/en/android/obtaining-apps/#f-droid) !
-
-#### F-Droid repository I use:
-
-NewPipe Upstream
-
-```
-https://archive.newpipe.net/fdroid/repo/?fingerprint=E2402C78F9B97C6C89E97DB914A2751FDA1D02FE2039CC0897A462BDB57E7501
-```
-
-IzzyOnDroid
-
-```
-https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A
-```
 
 ### 📦 Apps
 
