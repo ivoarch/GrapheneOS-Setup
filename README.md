@@ -139,7 +139,7 @@ Disable ❌
 ### 🛍️ App stores
 
 - [Apps](Default play store of GrapheneOS)
-- [Accrescent](A novel Android app store focused on security, privacy, and usability).
+- [Accrescent](https://accrescent.app/) - A novel Android app store focused on security, privacy, and usability).
 - [F-Droid](https://f-droid.org/) 🌍 - installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
 - Google Play Store
 
