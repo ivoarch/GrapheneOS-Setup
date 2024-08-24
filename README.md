@@ -157,48 +157,48 @@ Disable ❌
   - Default pdf reader of GrapheneOS
 - **Contacts sync**
   - Default contacts app of GrapheneOS
-  - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺 🇬
+  - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Password Manager & 2FA Authenticator App**
-  - [Bitwarden](https://bitwarden.com/) 🇺🇸 + 🇪🇺 servers 🇬
+  - [Bitwarden](https://bitwarden.com/) 🇺🇸 + 🇪🇺 servers <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Email Service/Client/Contacts/Calendar**
-  - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺 🇬
-  - [K9-Mail](https://k9mail.app) 🇺🇸 🇬
+  - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
+  - [K9-Mail](https://k9mail.app) 🇺🇸 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Anti-spam email protection**
-  - [Addy](https://addy.io/) 🇬🇧 / android app 🇳🇱 
+  - [Addy](https://addy.io/) 🇬🇧 / android app 🇳🇱 <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png" width="15" height="15"/> <a href="https://obtainium.imranr.dev/">
 - **Encrypted E2EE cloud storage**
-  - [Koofr](https://koofr.eu) 🇸🇮 🇪🇺 🇬
-  - [Koofr Vault](https://vault.koofr.net/) 🇸🇮 🇪🇺 🇬
+  - [Koofr](https://koofr.eu) 🇸🇮 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
+  - [Koofr Vault](https://vault.koofr.net/) 🇸🇮 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Notes E2EE**
-  - [Joplin](https://joplinapp.org/) Sync via WebDav and Koofr 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬
+  - [Joplin](https://joplinapp.org/) Sync via WebDav and Koofr 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Private Photo cloud backup**
-  - [Ente](https://ente.io/) 🇵🇰 🇬
+  - [Ente](https://ente.io/) 🇵🇰 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **YouTube frontend**
-  - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍 
+  - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍 <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png" width="15" height="15"/> <a href="https://obtainium.imranr.dev/">
 - **Video Player/Music player**
-  - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) 🇫🇷 🇪🇺 🇬
+  - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) 🇫🇷 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Messaging**
   - Default messages app of GrapheneOS
-  - [WhatsApp](https://www.whatsapp.com) 🇺🇸 🇬
+  - [WhatsApp](https://www.whatsapp.com) 🇺🇸 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **VPN**
-  - [Mullvad](https://mullvad.net/en) 🇸🇪  🇪🇺 🇬
+  - [Mullvad](https://mullvad.net/en) 🇸🇪  🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **File Encryption**
-  - [OpenKeychain](https://www.openkeychain.org) 🇩🇪 🇪🇺 🇬
+  - [OpenKeychain](https://www.openkeychain.org) 🇩🇪 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Rss/Feed reader**
-  - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) 🇬
+  - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Private Text, Markdown Editor**
-  - [BeauTyXT](https://beautyxt.app/)
+  - [BeauTyXT](https://beautyxt.app/) <img src="https://accrescent.app/accrescent.svg" width="15" height="15"/> <a href="https://accrescent.app/">
 - **E2EE Office Suite**
   - [CryptPad](https://cryptpad.org/) 🇫🇷 🇪🇺
 - **Navigation Maps**
-  - Google Maps 🇬
+  - Google Maps <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Cryptocurrency wallet**
-  - [Tangem](https://tangem.com) 🇨🇭 🇬
+  - [Tangem](https://tangem.com) 🇨🇭 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Hardware & System information**
-  - [Cpu-info](https://github.com/kamgurgul/cpu-info) 🇵🇱 🇪🇺 🇬
+  - [Cpu-info](https://github.com/kamgurgul/cpu-info) 🇵🇱 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Translator**
-  - [Deepl](https://www.deepl.com/en/translator)  🇩🇪🇪🇺 🇬
+  - [Deepl](https://www.deepl.com/en/translator)  🇩🇪🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Audio Recorder**
-  - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) 🌍 🇬
+  - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) 🌍 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Shoping**
   - https://digitalgoods.proxysto.re/ 🇩🇪 🇪🇺 - ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)) - Buy coupons for privacy-friendly services with Monero or Bitcoin...
   - https://shop.proxysto.re/ 🇩🇪 🇪🇺  - Get hardware, books, privacy gadgets and physical voucher cards for Mullvad VPN.
