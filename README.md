@@ -164,7 +164,7 @@ Disable ❌
   - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
   - [K9-Mail](https://k9mail.app) 🇺🇸 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Anti-spam email protection**
-  - [Addy](https://addy.io/) 🇬🇧 / android app 🇳🇱 <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png" width="15" height="15"/> <a href="https://obtainium.imranr.dev/">
+  - [Addy](https://addy.io/) 🇬🇧 / android app 🇳🇱 <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png" width="20" height="20"/> <a href="https://obtainium.imranr.dev/">
 - **Encrypted E2EE cloud storage**
   - [Koofr](https://koofr.eu) 🇸🇮 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
   - [Koofr Vault](https://vault.koofr.net/) 🇸🇮 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
@@ -173,7 +173,7 @@ Disable ❌
 - **Private Photo cloud backup**
   - [Ente](https://ente.io/) 🇵🇰 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **YouTube frontend**
-  - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍 <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png" width="15" height="15"/> <a href="https://obtainium.imranr.dev/">
+  - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍 <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png" width="20" height="20"/> <a href="https://obtainium.imranr.dev/">
 - **Video Player/Music player**
   - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) 🇫🇷 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Messaging**
