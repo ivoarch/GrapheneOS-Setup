@@ -139,8 +139,8 @@ Disable ❌
 ### 🛍️ App stores
 
 - Apps (Default play store of GrapheneOS)
-- [Accrescent](https://accrescent.app/) - A novel Android app store focused on security, privacy, and usability).
-- [Obtainium](https://obtainium.imranr.dev/) Get Android app updates straight from the source)
+- [Accrescent](https://accrescent.app/) - A novel Android app store focused on security, privacy, and usability.
+- [Obtainium](https://obtainium.imranr.dev/) Get Android app updates straight from the source.
 - Google Play Store
 
 ### 📦 Apps
