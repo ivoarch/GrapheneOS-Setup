@@ -157,48 +157,48 @@ Disable ❌
   - Default pdf reader of GrapheneOS
 - **Contacts sync**
   - Default contacts app of GrapheneOS
-  - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺
+  - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺 🇬
 - **Password Manager & 2FA Authenticator App**
-  - [Bitwarden](https://bitwarden.com/) 🇺🇸 + 🇪🇺 servers
+  - [Bitwarden](https://bitwarden.com/) 🇺🇸 + 🇪🇺 servers 🇬
 - **Email Service/Client/Contacts/Calendar**
-  - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺
-  - [K-Mail](https://k9mail.app) 🇺🇸 
+  - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺 🇬
+  - [K9-Mail](https://k9mail.app) 🇺🇸 🇬
 - **Anti-spam email protection**
-  - [Addy](https://addy.io/) 🇬🇧 / android app 🇳🇱
+  - [Addy](https://addy.io/) 🇬🇧 / android app 🇳🇱 
 - **Encrypted E2EE cloud storage**
-  - [Koofr](https://koofr.eu) 🇸🇮 🇪🇺
-  - [Koofr Vault](https://vault.koofr.net/) 🇸🇮 🇪🇺
+  - [Koofr](https://koofr.eu) 🇸🇮 🇪🇺 🇬
+  - [Koofr Vault] (https://vault.koofr.net/) 🇸🇮 🇪🇺 🇬
 - **Notes E2EE**
-  - [Joplin](https://joplinapp.org/) Sync via WebDav and Koofr 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+  - [Joplin](https://joplinapp.org/) Sync via WebDav and Koofr 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬
 - **Private Photo cloud backup**
-  - [Ente](https://ente.io/) 🇵🇰
+  - [Ente](https://ente.io/) 🇵🇰 🇬
 - **YouTube frontend**
-  - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍
+  - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍 
 - **Video Player/Music player**
-  - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) 🇫🇷 🇪🇺
+  - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) 🇫🇷 🇪🇺 🇬
 - **Messaging**
   - Default messages app of GrapheneOS
-  - [WhatsApp](https://www.whatsapp.com) 🇺🇸
+  - [WhatsApp](https://www.whatsapp.com) 🇺🇸 🇬
 - **VPN**
-  - [Mullvad](https://mullvad.net/en) 🇸🇪  🇪🇺
+  - [Mullvad](https://mullvad.net/en) 🇸🇪  🇪🇺 🇬
 - **File Encryption**
-  - [OpenKeychain](https://www.openkeychain.org) 🇩🇪 🇪🇺
+  - [OpenKeychain](https://www.openkeychain.org) 🇩🇪 🇪🇺 🇬
 - **Rss/Feed reader**
-  - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)
+  - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) 🇬
 - **Private Text, Markdown Editor**
   - [BeauTyXT](https://beautyxt.app/)
 - **E2EE Office Suite**
   - [CryptPad](https://cryptpad.org/) 🇫🇷 🇪🇺
 - **Navigation Maps**
-  - Google Maps
+  - Google Maps 🇬
 - **Cryptocurrency wallet**
-  - [Tangem](https://tangem.com) 🇨🇭
+  - [Tangem](https://tangem.com) 🇨🇭 🇬
 - **Hardware & System information**
-  - [Cpu-info](https://github.com/kamgurgul/cpu-info) 🇵🇱 🇪🇺
+  - [Cpu-info](https://github.com/kamgurgul/cpu-info) 🇵🇱 🇪🇺 🇬
 - **Translator**
-  - [Deepl](https://www.deepl.com/en/translator)  🇩🇪🇪🇺
+  - [Deepl](https://www.deepl.com/en/translator)  🇩🇪🇪🇺 🇬
 - **Audio Recorder**
-  - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) 🌍
+  - [Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) 🌍 🇬
 - **Shoping**
   - https://digitalgoods.proxysto.re/ 🇩🇪 🇪🇺 - ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)) - Buy coupons for privacy-friendly services with Monero or Bitcoin...
   - https://shop.proxysto.re/ 🇩🇪 🇪🇺  - Get hardware, books, privacy gadgets and physical voucher cards for Mullvad VPN.
