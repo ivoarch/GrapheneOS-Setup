@@ -167,7 +167,7 @@ Disable ❌
   - [Addy](https://addy.io/) 🇬🇧 / android app 🇳🇱 
 - **Encrypted E2EE cloud storage**
   - [Koofr](https://koofr.eu) 🇸🇮 🇪🇺 🇬
-  - [Koofr Vault] (https://vault.koofr.net/) 🇸🇮 🇪🇺 🇬
+  - [Koofr Vault](https://vault.koofr.net/) 🇸🇮 🇪🇺 🇬
 - **Notes E2EE**
   - [Joplin](https://joplinapp.org/) Sync via WebDav and Koofr 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬
 - **Private Photo cloud backup**
