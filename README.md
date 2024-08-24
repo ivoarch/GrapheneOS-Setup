@@ -138,7 +138,7 @@ Disable ❌
 
 ### 🛍️ App stores
 
-- Apps (Default play store of GrapheneOS)
+- App Store (Default play store of GrapheneOS)
 - <img src="https://accrescent.app/accrescent.svg" width="15" height="15"/> <a href="https://accrescent.app/">  [Accrescent](https://accrescent.app/) - A novel Android app store focused on security, privacy, and usability.
 - <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png" width="20" height="20"/> <a href="https://obtainium.imranr.dev/">[Obtainium](https://obtainium.imranr.dev/) Get Android app updates straight from the source.
 - <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps"> Google Play Store
