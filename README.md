@@ -204,11 +204,11 @@ Disable ❌
   - https://shop.proxysto.re/ 🇩🇪 🇪🇺  - Get hardware, books, privacy gadgets and physical voucher cards for Mullvad VPN.
   - https://shopinbit.com/ 🇲🇨 🇪🇺 - Europes biggest Bitcoin Store, with over 300,000 products.
 
-### The GrapheneOS home screen after setup
+### My home screen after setup
 
-<img src="https://raw.githubusercontent.com/ivoarch/GrapheneOS-Setup/main/Screenshot_20240812-125046.png" width="250" height="550" />
+<img src="https://raw.githubusercontent.com/ivoarch/GrapheneOS-Setup/main/Screenshot_20240824-131301.png" width="250" height="550" />
 
-> 🎴 Screenshot of my phone as of 12-08-2024
+> 🎴 Screenshot of my phone as of 23-08-2024
 
 ### Accessories
 
