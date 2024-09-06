@@ -146,17 +146,17 @@ Disable ❌
 ### 📦 Apps
 
 - **Web Browser**
-  - Default Browser of GrapheneOS
+  - Default Browser
 - **Camera**
-  - Default camera app of GrapheneOS
+  - Default Camera
 - **Photo and video gallery**
-  - Default gallery app of GrapheneOS
+  - Default gallery
 - **File Manager**
-  - Default file manager of GrapheneOS
+  - Default file manager
 - **PDF Reader**
-  - Default pdf reader of GrapheneOS
+  - Default pdf reader
 - **Contacts sync**
-  - Default contacts app of GrapheneOS
+  - Default contacts app
   - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Password Manager & 2FA Authenticator App**
   - [Bitwarden](https://bitwarden.com/) 🇺🇸 + 🇪🇺 servers <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
