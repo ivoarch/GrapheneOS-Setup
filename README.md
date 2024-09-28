@@ -95,7 +95,6 @@ Disable ❌
 - Fingerprint > Use for screen unlock ❌ 
 - Screen lock ⚙️ > Lock after screen timeout ✅ (5 seconds)
 - Auto reboot > 18 Hours ✅
-- USB Accessories > Allow new USB peripherals when unlocked ✅
 - Enable native code debugging ❌
 - USB-C port > Charging-only when locked, except before first unlock (see https://discuss.grapheneos.org/d/11178-grapheneos-version-2024022800-released/12 and https://discuss.grapheneos.org/d/11721-improvements-to-factory-resets-by-google-due-to-reports-by-grapheneos 
 - PIN scrambling > Scramble PIN ✅
