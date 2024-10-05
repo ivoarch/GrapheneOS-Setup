@@ -151,7 +151,8 @@ Disable ❌
 - **Photo and video gallery**
   - [Aves Gallery](https://github.com/deckerst/aves) <img src="https://accrescent.app/accrescent.svg" width="15" height="15"/> <a href="https://accrescent.app/">
 - **File Manager**
-  - Default file manager
+  - [Material Files](https://github.com/zhanghai/MaterialFiles) 🇨🇳 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
+
 - **PDF Reader**
   - Default pdf reader
 - **Contacts sync**
