@@ -149,7 +149,7 @@ Disable ❌
 - **Camera**
   - Default Camera
 - **Photo and video gallery**
-  - Default gallery
+  - [Aves Gallery](https://github.com/deckerst/aves) <img src="https://accrescent.app/accrescent.svg" width="15" height="15"/> <a href="https://accrescent.app/">
 - **File Manager**
   - Default file manager
 - **PDF Reader**
