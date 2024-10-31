@@ -150,8 +150,9 @@ Disable ❌
   - Default Camera
 - **Photo and video gallery**
   - Default Gallery
-- **File Manager**
+- **File Manager & Cloud File manager**
   - Default file manager
+  - [Round Sync](https://github.com/newhinton/Round-Sync) <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **PDF Reader**
   - Default pdf reader
 - **Contacts sync**
