@@ -151,8 +151,7 @@ Disable ❌
 - **Photo and video gallery**
   - Default Gallery
 - **File Manager**
-  - [Material Files](https://github.com/zhanghai/MaterialFiles) 🇨🇳 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
-
+  - Default file manager
 - **PDF Reader**
   - Default pdf reader
 - **Contacts sync**
