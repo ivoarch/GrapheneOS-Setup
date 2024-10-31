@@ -187,8 +187,8 @@ Disable ❌
 - **Rss/Feed reader**
   - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Bookmark Manager**
-- [Linkding](https://linkding.link/) (Self-hosted)
-- [Pinkt](https://github.com/fibelatti/pinboard-kotlin) Unofficial Android client for Linkding <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
+  - [Linkding](https://linkding.link/) (Self-hosted)
+  - [Pinkt](https://github.com/fibelatti/pinboard-kotlin) Unofficial Android client for Linkding <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Private Text, Markdown Editor**
   - [BeauTyXT](https://beautyxt.app/) <img src="https://accrescent.app/accrescent.svg" width="15" height="15"/> <a href="https://accrescent.app/">
 - **E2EE Office Suite**
@@ -212,7 +212,7 @@ Disable ❌
 
 <img src="https://raw.githubusercontent.com/ivoarch/GrapheneOS-Setup/refs/heads/main/Screenshot_20241031-170650.png"  width="250" height="550" />
 
-> 🎴 Screenshot of my phone as of 23-08-2024
+> 🎴 Screenshot of my phone as of 31-10-24
 
 ### Accessories
 
