@@ -149,7 +149,7 @@ Disable ❌
 - **Camera**
   - Default Camera
 - **Photo and video gallery**
-  - [Aves Gallery](https://github.com/deckerst/aves) <img src="https://accrescent.app/accrescent.svg" width="15" height="15"/> <a href="https://accrescent.app/">
+  - Default Gallery
 - **File Manager**
   - [Material Files](https://github.com/zhanghai/MaterialFiles) 🇨🇳 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 
@@ -162,20 +162,20 @@ Disable ❌
   - [Bitwarden](https://bitwarden.com/) 🇺🇸 + 🇪🇺 servers <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Email Service/Client/Contacts/Calendar**
   - [Tuta](https://tuta.com/) 🇩🇪 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
-  - [K9-Mail](https://k9mail.app) 🇺🇸 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
+  - [Thunderbird](https://www.thunderbird.net/en-GB/mobile/) 🇺🇸 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Anti-spam email protection**
   - [Addy](https://addy.io/) 🇬🇧 / android app 🇳🇱 <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png" width="20" height="20"/> <a href="https://obtainium.imranr.dev/">
-- **Encrypted E2EE cloud storage**
-  - [Koofr](https://koofr.eu) 🇸🇮 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
-  - [Koofr Vault](https://vault.koofr.net/) 🇸🇮 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
+- **Online storage**
+  - [Storagebox](https://docs.hetzner.com/storage/storage-box/) 🇩🇪 🇪🇺
 - **Notes E2EE**
-  - [Joplin](https://joplinapp.org/) Sync via WebDav and Koofr 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
+  - [Joplin](https://joplinapp.org/) (Self-hosted) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Private Photo cloud backup**
-  - [Ente](https://ente.io/) 🇵🇰 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
+  - [Immich](https://immich.app/) (Self-hosted) <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **YouTube frontend**
   - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍 <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png" width="20" height="20"/> <a href="https://obtainium.imranr.dev/">
-- **Video Player/Music player**
+- **Video Player/Music player and Streaming**
   - [VLC Media Player](https://f-droid.org/en/packages/org.videolan.vlc/) 🇫🇷 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
+  - [Jellyfin](https://jellyfin.org/) (Self-hosted) <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Messaging**
   - Default messages app of GrapheneOS
   - [WhatsApp](https://www.whatsapp.com) 🇺🇸 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
@@ -183,8 +183,12 @@ Disable ❌
   - [Mullvad](https://mullvad.net/en) 🇸🇪  🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **File Encryption**
   - [OpenKeychain](https://www.openkeychain.org) 🇩🇪 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
+  - [Cryptomator](https://cryptomator.org/) <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png" width="20" height="20"/> <a href="https://obtainium.imranr.dev/">
 - **Rss/Feed reader**
   - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
+- **Bookmark Manager**
+- [Linkding](https://linkding.link/) (Self-hosted)
+- [Pinkt](https://github.com/fibelatti/pinboard-kotlin) Unofficial Android client for Linkding
 - **Private Text, Markdown Editor**
   - [BeauTyXT](https://beautyxt.app/) <img src="https://accrescent.app/accrescent.svg" width="15" height="15"/> <a href="https://accrescent.app/">
 - **E2EE Office Suite**
