@@ -166,6 +166,8 @@ Disable ❌
 - **Anti-spam email protection**
   - [Addy](https://addy.io/) 🇬🇧 / android app 🇳🇱 <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png" width="20" height="20"/> <a href="https://obtainium.imranr.dev/">
 - **Online storage**
+  - [Koofr](https://koofr.eu) 🇸🇮 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
+  - [Koofr Vault](https://vault.koofr.net/) 🇸🇮 🇪🇺 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
   - [Storagebox](https://docs.hetzner.com/storage/storage-box/) 🇩🇪 🇪🇺
 - **Notes E2EE**
   - [Joplin](https://joplinapp.org/) (Self-hosted) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
