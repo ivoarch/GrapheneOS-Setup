@@ -197,6 +197,8 @@ Disable ❌
   - [CryptPad](https://cryptpad.org/) 🇫🇷 🇪🇺
 - **Navigation Maps**
   - Google Maps <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
+- **Social**
+  - [Red Reader](https://github.com/QuantumBadger/RedReader) <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Cryptocurrency wallet**
   - [Tangem](https://tangem.com) 🇨🇭 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Hardware & System information**
