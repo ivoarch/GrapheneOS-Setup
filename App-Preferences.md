@@ -10,8 +10,7 @@
 ## Vanadium
 
 - Settings
-  - Search engine - Add [Startpage](https://www.startpage.com/) 🇳🇱 🇪🇺
-as a default search engine in Vanadium
+  - Search engine - [SearXNG](https://docs.searxng.org/) (Self-hosted)
 - Passwords
   - Save Passwords ❌
   - Auto Sign-in ❌
