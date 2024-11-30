@@ -216,9 +216,9 @@ Disable ❌
 
 ### My home screen after setup
 
-<img src="https://raw.githubusercontent.com/ivoarch/GrapheneOS-Setup/refs/heads/main/Screenshot_20241031-200715.png" width="250" height="550" />
+<img src="https://raw.githubusercontent.com/ivoarch/GrapheneOS-Setup/refs/heads/main/Screenshot_20241130-161553.png" width="250" height="550" />
 
-> 🎴 Screenshot of my phone as of 31-10-24
+> 🎴 Screenshot of my phone as of 30-11-24
 
 ### Accessories
 
