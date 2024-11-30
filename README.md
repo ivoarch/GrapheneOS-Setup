@@ -172,7 +172,7 @@ Disable ❌
 - **Notes E2EE**
   - [Joplin](https://joplinapp.org/) (Self-hosted) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **Private Photo cloud backup**
-  - [Immich](https://immich.app/) (Self-hosted) <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
+  - [Ente](https://ente.io/) 🇵🇰 <img src="https://external-content.duckduckgo.com/ip3/play.google.com.ico" width="15" height="15"/> <a href="https://play.google.com/store/apps">
 - **YouTube frontend**
   - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) 🌍 <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png" width="20" height="20"/> <a href="https://obtainium.imranr.dev/">
 - **Video Player/Music player and Streaming**
