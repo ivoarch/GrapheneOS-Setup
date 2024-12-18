@@ -33,37 +33,36 @@ You need to install all three apps: **Google Services Framework, Google Play Ser
 ### ⚙️ Settings
 
 #### Network & Internet
-- Internet > LTE connection from your carrier > ⚙️ Allow 2G ❌
-- Internet > Network preferences > Turn Off Wi-Fi automatically (15 seconds if no network connected)
-- Internet > Network preferences > Notify for public networks ❌
-- SIMs > ADD SIM "+" Scan QR Code
-- eSIM support ✅ (eSIM management no longer requires sandboxed Google Play  https://grapheneos.org/releases#2024012600)
-- VPN > Mullvad VPN > ⚙️ Always-on VPN ✅
-- VPN > Mullvad VPN > ⚙️ Block connections without VPN ✅
+- LTE connection from your carrier ➔ ⚙️ Allow 2G ❌
+- Network preferences ➔ Notify for public networks ❌
+- eSIM support ✅ *(eSIM management no longer requires sandboxed Google Play  https://grapheneos.org/releases#2024012600)*
+- SIMs ➔ Add SIM "+" Scan QR Code
+- VPN ➔ Mullvad VPN ➔ ⚙️ Always-on VPN ✅
+- VPN > Mullvad VPN ➔ ⚙️ Block connections without VPN ✅
 
 #### Connected devices
-- Bluetooth timeout ✅ (15 seconds if no devices connected)
-- Connection preferences > NFC ❌
-- Connection preferences > Printing ❌
+- Bluetooth timeout ✅ *(15 seconds if no devices connected)*
+- Connection preferences ➔ NFC ❌
+- Connection preferences ➔ Printing ❌
 
 #### Apps
-- Apps > SEE ALL `X` APPS > Customize everything! ✅
+- Apps ➔ Customize all installed apps! ✅
 
 #### Notifications
-- App settings > Disable ❌ notifications for any apps you do not necessarily need it .
+- App notifications ➔ Disable ❌ notifications for any apps you do not necessarily need it .
 - Notification History
 Disable ❌
-- Notifications on lock screen > Disable ❌
+- Notifications on lock screen ➔ Disable ❌
 
 #### Battery
 - Battery Percentage ✅
 - Battery share ❌
 
 #### Sound & vibration
-- Do Not Disturb > Schedules > Sleeping ✅ use a specified custom time to time start 22:00 end 07:00
-- Do not Disturb > People > Calls > Starred Contacts (family members)
-- Do not Disturb > People > Calls > Allow repeat callers ❌
-- Do not Disturb > People > Messages > None ❌
+- Do Not Disturb ➔ Schedules ➔ Sleeping ✅ use a specified custom time to time start 22:00 end 07:00
+- Do not Disturb ➔ People ➔ Calls ➔ Starred Contacts *(family members)*
+- Do not Disturb ➔ People ➔ Calls ➔  Allow repeat callers ❌
+- Do not Disturb ➔ People ➔ Messages ➔  None ❌
 - Media > Hide media player ❌
 - Dial pad tones ❌
 - Screen locking sound ❌
@@ -73,67 +72,85 @@ Disable ❌
 
 #### Display
 - Adaptive Brightness ❌
+- Screen timeout ➔ After 15 seconds of inactivity
 - Auto-rotate screen ❌
-- Lock Screen > Privacy > Don't show notificationa at all ✅
-- Lock Screen > Wake screen for notifications ❌
-- Lock Screen > Lift to check phone ❌
-- Lock Screen > Tab to check phone ❌
+- Lock Screen ➔ Privacy ➔ Don't show notificationa at all ✅
+- Use device controls ❌ *(without unlocking your phone)*
+- Shortcuts ➔ set to None ❌
+- Dinamic clock ➔ ❌
+- Always show time and info ➔ ❌
+- Lock Screen ➔ Wake screen for notifications ❌
+- Lock Screen ➔ Lift to check phone ❌
+- Lock Screen ➔ Tab to check phone ❌
+- Locl Screen ➔ Wake screen for notifications ❌
 - Dark Theme ✅
 - Night Light ✅
-  - Don’t use sunset to sunrise (uses device location data) use a specified custom time to time start 22:00 end 07:00
+  - *Don’t use sunset to sunrise (uses device location data) use a specified custom time to time start 22:00 end 07:00*
 - Screen saver ❌
 
 #### Wallpaper and Style
 
-- Lock screen > select Monochrome theme
-- Lock screen > Show notifications on the lock screen ❌
-- Home screen > select Monochrome theme
-- Home screen > Themed icons ✅
+- Lock screen ➔ select Monochrome theme
+- Lock screen ➔ Show notifications on the lock screen ❌
+- Home screen ➔ select Monochrome theme
+- Home screen ➔ Themed icons ✅
 
-#### Security
-- Fingerprint > Tap Fingerprint + PIN and follow the prompts
-- Fingerprint > Use for screen unlock ❌ 
-- Screen lock ⚙️ > Lock after screen timeout ✅ (5 seconds)
-- Auto reboot > 18 Hours ✅
-- Enable native code debugging ❌
-- USB-C port > Charging-only when locked, except before first unlock (see https://discuss.grapheneos.org/d/11178-grapheneos-version-2024022800-released/12 and https://discuss.grapheneos.org/d/11721-improvements-to-factory-resets-by-google-due-to-reports-by-grapheneos 
-- PIN scrambling > Scramble PIN ✅
-- Durres Password ✅ 
-- Screen lock camera acces ❌
+#### Privacy & Security
+##### Device unlock
+- Fingerprint unlock ➔ Add Fingerprint +
+- Fingerprint ➔ Use for screen unlock ❌
+- Durres Password ✅
+##### Screen lock
+- Scramble PIN input layout ➔ ✅
+- Enhanced PIN privacy ➔ ✅ *(disabled animations while entering Pin)*
+- Lock after screen timeout - 5 sec.
+- Power buttin instantly locks ✅
+- Allow camera access when locked - ❌
+##### Privacy Controls
+- Camera access ➔ ❌ *(for apps and services)*
+- Microphone access ➔ ❌
+- Show clipboard access ✅
+- Location access ❌
+##### Exploit protection  
+- Auto reboot ➔ 18 Hours ✅
+- USB-C port ➔ Charging-only when locked
+- Turn off Wifi automatically - Set to 1 min.
+- Turn off Bluetooth automatically - Set to 1 min.
+##### More security and privacy
+- Notifications on lock screen ➔ Don't show notifications at all ❌
+- Show media on lock screen ❌
+- Allow Sensors permissions to apps by default ❌
 - Notify about system process crashes ✅
-- More security settings > SIM card lock - Lock SIM card ✅
+- Lock SIM card ✅
 
 #### Location
-- Use location ❌ (Enable only when is using Maps for navegation)
+- Use location ❌ *(Enable only when is using Maps for navegation)*
 
 #### Safety & emergency
 - Wireless emergency alerts - toogle ❌ for operator and presidential
 
-#### Privacy
-- Permission manager > Customize Everything! ✅
-
 #### Passwords and accounds
-- Passwords, passkeys and date services > Bitwarden ✅
+- Passwords, passkeys and accounts ➔ Preferred service (Bitwarden).
 
 #### System
-- Language & Input > on screen keyboard > GraphineOS Keyboard > Appearance & Layouts > Theme > Material Dark ✅
-- Languages & input > Languages - Add English (UK), Spanish (Spain), Български (Bulgaria)
-- Languages & input > On-screen keyboard > Preferences > Auto-capitalisation ❌
-- Languages & input > On-screen keyboard > Preferences > Sound on keypress ❌
-- Languages & input > On-screen keyboard > Apparience & Layouts > Theme > Material Dark ✅
-- Languages & input > On-screen keyboard > Text correction > Auto-correction ❌
-- Languages & input > On-screen keyboard > Text correction > Show correction sugguestions ❌
-- Languages & input > On-screen keyboard > Text correction > Next-word sugguestions ❌
-- Languages & input > Spell checker ❌
-- Gestures > Quickly open camera ❌
-- Gestures > System navigation > 3-button navigation ✅
-- Gestures > System navigation > 3-button navigation ⚙️ Hold home for Assistant ❌
-- Gestures > Tab to check phone ❌
-- Gestures > Lift to check phone ❌
+- Languages & Input ➔ on screen keyboard ➔ GraphineOS Keyboard ➔ Appearance & Layouts ➔ Theme ➔ Material Dark ✅
+- Languages & input ➔ Languages - Add +
+- Languages & input ➔ On-screen keyboard ➔ Preferences ➔ Auto-capitalisation ❌
+- Languages & input ➔ On-screen keyboard ➔ Preferences ➔ Sound on keypress ❌
+- Languages & input ➔ On-screen keyboard ➔ Apparience & Layouts ➔ Theme ➔ Material Dark ✅
+- Languages & input ➔ On-screen keyboard ➔ Text correction ➔ Auto-correction ❌
+- Languages & input ➔ On-screen keyboard ➔ Text correction ➔ Show correction sugguestions ❌
+- Languages & input ➔ On-screen keyboard ➔ Text correction > Next-word sugguestions ❌
+- Languages & input ➔ Spell checker ❌
+- Gestures ➔ Quickly open camera ❌
+- Gestures ➔ System navigation ➔ 3-button navigation ✅
+- Gestures ➔ System navigation ➔ 3-button navigation ⚙️ Hold home for Assistant ❌
+- Gestures ➔ Tab to check phone ❌
+- Gestures ➔ Lift to check phone ❌
 - Date & time - Toggle Use locale default ❌ (to allow the 24 hour time format to be used)
 
 #### About Phone
-- Device Name > Set "generic name"
+- Device Name ➔ Set "generic name"
 
 ### 🛍️ App stores
 
